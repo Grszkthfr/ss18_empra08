@@ -15,5 +15,5 @@ Die Folien findet ihr hier:
   + ...
 
 Aufgabenliste:
-    + Hier stehen in Zukunft die Aufgaben,
-    + die es zu erledigen gilt.
+  + Hier stehen in Zukunft die Aufgaben,
+  + die es zu erledigen gilt.
