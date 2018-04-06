@@ -7,7 +7,7 @@ Erreichen könnt ihr mich am besten per Mail: [jonas.grossekathoefer@uni-wuerzbu
 
 + Die aktuelle Modulbeschreibung findet ihr [hier](https://www2.uni-wuerzburg.de/mhb/MB-de-06-PSY-EFM-152-m01.pdf).
 + Die Folien findet ihr hier:
-  + Sitzung 1
+  + [Sitzung 1](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Grszkthfr/ss18_empra08/master/folien/sitzung01.html)
   + Sitzung 2
   + Sitzung 3
   + Sitzung 4
