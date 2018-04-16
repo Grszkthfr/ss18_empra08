@@ -26,7 +26,6 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 |**12.** 25. Juni 2018 ||
 |**13.** 09. Juli 2018 |	Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
 
-
 ### Aufgaben
 Bitte die folgenden Aufgaben erledigen.
 - Hier stehen in Zukunft die Aufgaben,

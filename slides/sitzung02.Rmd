@@ -1,0 +1,237 @@
+---
+title: "Einführung in empirische und experimentelle Forschungsmethoden"
+subtitle: "Gruppe 08"
+author: "Jonas Großekathöfer"
+date: "09.04.2018"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      #ratio: "16:9"
+
+---
+class: inverse, center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+
+library(tidyverse)
+#library(kableExtra)
+library(knitr)
+
+```
+
+# Heute
+ --- 
+
+## Hausaufgaben
+
+## Die 7 Todsünden der Psychologie
+
+## Wissenschaftliche Artikel
+
+---
+class: inverse, center, middle
+
+## Hausaufgaben
+
+---
+
+### Lernziele
+
+- Lernen wie man einen Test plant und wissen aus der Statistik anwenden.
+- Studienqualität bewerten können
+- Aufbau von Versuchen und Statistik
+- Grenzen und Möglichkeiten von Experimenten
+- 
+
+---
+
+### Projektideen/ Brainstorming
+
+#### Ihr seid dran!
+
+--
+ --- 
+#### Meine Idee:
+
+- Eye-Tracking Studie zum Einfluss von Gruppen (bzw. mehreren Gesichtern) auf den cueing-Effekt
+- Literatur-Quellen: 
+  - Ricciardelli, P.; Bricolo, E.; Aglioti, S. M. & Chelazzi, L., My eyes want to look where your eyes are looking: Exploring the tendency to imitate another individual's gaze, NeuroReport, 2002, 13, 2259-2264
+  - Kuhn, G. & Benson, V., The influence of eye-gaze and arrow pointing distractor cues on voluntary eye movements, Perception & Psychophysics, Springer Nature, 2007, 69, 966-971
+  - Friesen, C. K. & Kingstone, A., The eyes have it! Reflexive orienting is triggered by nonpredictive gaze, Psychonomic Bulletin & Review, 1998, 5, 490-495 
+  
+
+---
+class: inverse, center, middle
+
+## Die 7 Todsünden der Psychologie
+
+---
+
+### Die Sünden
+
+--
+background-image: url(img/1_verblendung.png)
+background-size: 40%
+background-position: 90% 50%
+
+#### Die Sünde der **Verblendung**
+
+---
+
+background-image: url(img/2_datenschoenung.png)
+background-size: 40%
+background-position: 90% 50%
+
+### Die Sünden
+#### Die Sünde der Verblendung
+#### Die Sünde der **Datenschönung**
+
+---
+
+background-image: url(img/3_unwiederholbarkeit.png)
+background-size: 40%
+background-position: 90% 50%
+
+### Die Sünden
+#### Die Sünde der Verblendung
+#### Die Sünde der Datenschönung
+#### Die Sünde der **Unwiederholbarkeit**
+
+---
+
+background-image: url(img/4_datenverweigerung.png)
+background-size: 40%
+background-position: 90% 50%
+
+### Die Sünden
+#### Die Sünde der Verblendung
+#### Die Sünde der Datenschönung
+#### Die Sünde der Unwiederholbarkeit
+#### Die Sünde der **Datenverweigerung**
+
+---
+
+background-image: url(img/5_faelschung.png)
+background-size: 40%
+background-position: 90% 50%
+
+### Die Sünden
+#### Die Sünde der Verblendung
+#### Die Sünde der Datenschönung
+#### Die Sünde der Unwiederholbarkeit
+#### Die Sünde der Datenverweigerung
+#### Die Sünde der **Fälschung**
+
+---
+
+background-image: url(img/6_wucherns.png)
+background-size: 40%
+background-position: 90% 50%
+
+### Die Sünden
+#### Die Sünde der Verblendung
+#### Die Sünde der Datenschönung
+#### Die Sünde der Unwiederholbarkeit
+#### Die Sünde der Datenverweigerung
+#### Die Sünde der Fälschung
+#### Die Sünde des **Wucherns**
+
+---
+background-image: url(img/7_erbsenzaehlens.png)
+background-size: 40%
+background-position: 90% 50%
+
+### Die Sünden
+#### Die Sünde der Verblendung
+#### Die Sünde der Datenschönung
+#### Die Sünde der Unwiederholbarkeit
+#### Die Sünde der Datenverweigerung
+#### Die Sünde der Fälschung
+#### Die Sünde des Wucherns
+#### Die Sünde des **Erbsenzählens**
+
+---
+
+background-image: url(img/gifs.gif)
+background-size: contain
+class: center, bottom, inverse
+
+### Und nun?!
+
+---
+
+background-image: url(img/laeuterung_und_vergebung.png)
+background-size: 80%
+
+???
+
+0. Präregistrierung von Studien
+0. "Reproducibility Project", 2015, 270 wissenschaftler reproduzieren die 100 wichtigsten Studien
+0. Veröffentlichung nur mit Rohdaten
+
+---
+class: inverse, center, middle
+
+## Aufbau und Zweck eines wissenschaftlichen Artikels
+
+---
+### Struktur
+0. **Title**: Topic and information about the authors.
+0. **Abstract**: Brief overview of the article.
+0. **Introduction**: Background information and statement of the research hypothesis.
+0. **Methods**: Details of how the study was conducted, procedures followed, instruments used and Variables measured.
+0. **Results**: All the data of the study along with figures, tables and/or graphs.
+0. **Discussion**: The interpretation of the results and implications of the study.
+0. **References**/Bibliography: Citations of sources from where the information was obtained.
+
+.footnote[
+
+<font size="-2">aus: Subramanyam, R. V. (2013). Art of reading a journal article: Methodically and effectively. Journal of oral and maxillofacial pathology: JOMFP, 17(1), 65.</font size>
+
+]
+
+---
+
+background-image: url(img/abstract.png)
+background-size: 80%
+
+---
+
+background-image: url(img/how-to-read.png)
+background-size: 50%
+
+.footnote[
+
+<font size="-2">aus http://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/</font size>
+
+]
+
+---
+class: inverse, center, middle
+
+# Für nächste Woche:
++ Paper durchlesen, oder Literatur suchen zum Projekt
++ Plattform für Kollaboration schaffen (Jonas)
+
+
+# Noch Fragen?
+
+---
+class: inverse, center, middle
+
+# Vielen Dank für Eure Aufmerksamkeit!
+## Bis nächsten Montag.  
+
+# :-)
+
+
+.footnote[
+
+<font size="-2">Slides created via the R packages [**xaringan**](https://github.com/yihui/xaringan) and [knitr](http://yihui.name/knitr), and [R Markdown](https://rmarkdown.rstudio.com)</font size>
+
+]

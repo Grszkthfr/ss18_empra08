@@ -1,0 +1,227 @@
+---
+title: "Einführung in empirische und experimentelle Forschungsmethoden"
+subtitle: "Gruppe 08"
+author: "Jonas Großekathöfer"
+date: "09.04.2018"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+
+---
+class: inverse, center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+
+library(tidyverse)
+#library(kableExtra)
+library(knitr)
+
+```
+
+# Orga
+
+---
+
+## Kontakt, Formalia und Informalia
+
+### Zu mir
+  + Mail: [jonas.grossekathoefer@uni-wuerzburg.de](mailto:jonas.grossekathoefer@uni-wuerzburg.de)
+  + Raum: 206, Marcusstraße 9-11
+
+--
+
+### Zu Euch
+
+--
+
+  + [Prüfungsleistung](https://www2.uni-wuerzburg.de/mhb/MB-de-06-PSY-EFM-152-m01.pdf)<sup>1</sup>  
+    + Erstellung eines wissenschaftlichen Posters
+    + Individuelle Präsentation etwa 10 Minuten, benotet
+    + Zur Prüfung anmelden!
+  + wöchentliche Sitzung, montags, 14.15h - 15.45h, R. 213
+
+    
+.footnote[
+[1] Für Studierende, die ab WS15/16 immatrikuliert sind
+]
+
+???
+
+Hier beginnen die Notizen, und
+
+---
+
+## Kontakt, Formalia und Informalia
+
+### Für uns
+
++ Kollaborationsplattform?
+    + [OSF](https://osf.io/)
+    + [Teamdrive](https://www.rz.uni-wuerzburg.de/dienste/arbeitsplaetze/teamdrive/)
+    + [WueCampus](https://wuecampus2.uni-wuerzburg.de/moodle/)
+    + oder?
++ Ablauf der Sitzungen?
+
+
+---
+
+## Zeitplan
+
+```{r dates, include=FALSE}
+
+Nr. <- c(1:14)
+
+Termine <- c()
+Thema <- c()
+for (i in Nr.){
+  day <- (as.Date("2018-04-09") + (i*7-7)) %>% format("%d. %B %Y")
+  Termine <- c(Termine,day)
+  }
+
+Nr. <- c(1:6, "", 7:13) # Pfingst entfällt 
+
+Thema <- c(
+  "Orga, Kennenlernen, ...", # Sitzung 1
+  "", # Sitzung 2
+  "", # Sitzung 3
+  "", # Sitzung 4
+  "", # Sitzung 5
+  "", # Sitzung 6
+  "entfällt: Pfingsten", # Sitzung 7
+  "", # Sitzung 8
+  "", # Sitzung 9
+  "", # Sitzung 10
+  "", # Sitzung 11
+  "", # Sitzung 12
+  "", # Sitzung 13
+  "Prüfung und Posterkongress vsl. am Mittwoch, den 11. Juli 2018 " # Sitzung 14
+  )
+
+Termine <- data.frame(Nr., Termine, Thema)
+
+rm(day, i, Nr., Thema)
+
+```
+
+<font size="-1">`r kable(Termine, format = 'html', table.attr = "style='width:100%;'", align = c("c","c","l")) `</font>
+
+---
+class: middle, center, inverse
+
+# Einführung in empirische und experimentelle Forschungsmethoden
+
+???
+
++ Was erwartet ihr?
++ Was ist Empirie?
++ Was ist Experiment? 
+
+---
+
+## Stadien (psychologischer) Experimente<sup>1</sup>
+
+--
+
+0. Problemstellung und Hypothesenbildung
+0. Versuchsplanung
+0. Versuchsaufbau
+0. Versuchsdurchführung
+0. Datenanalyse
+0. Dateninterpretation, Schlussfolgerung und Kommunikation
+
+.footnote[
+[1] aus: Reiß, S., & Sarris, V. (2012). Experimentelle Psychologie: von der Theorie zur Praxis. Pearson.
+]
+
+---
+class: inverse, middle, center
+
+# Inhalt
+
+---
+
+## Aufmerksamkeit
+
+--
++ ...die Fähigkeit, aus der Fülle sensorischer Reize die Teilmenge
+auszuwählen, die ein zielgerichtetes Verhalten und Denken
+ermöglicht.  
+  + zentraler Bestandteil der menschlichen Informationsverarbeitung!
+
+--
+
+*Endogen – exogen, bottom-up – top-down, verdeckt – offen, fokussiert – geteilt, frühe vs. späte, selektive – räumliche – objektbasierte Aufmerksamkeit*
+
+???
+
+Leben ohne Aufmerksamkeit?!
+
+Flanker, Cuing, Visuelle Suche, 
+
+Früh: broadbent, lachter,
+Spät: duncan
+
+---
+
+## Soziale Aufmerksamkeit
+
++ ...die soziale Motivation zu einer bevorzugten Orientierung hin zu sozialen Reizen, wie etwa menschlichen oder menschenähnlichen Gesichtern, Stimmen oder Körpern.
+
+???
+
+
+
+---
+
+# Literatur
+
++ Whitney, D. & Leib, A. Y., Ensemble Perception, 2018, 69
++ Gallup, A. C.; Hale, J. J.; Sumpter, D. J. T.; Garnier, S.; Kacelnik, A.; Krebs, J. R. & Couzin, I. D., Visual attention and the acquisition of information in human crowds, Proceedings of the National Academy of Sciences, National Academy of Sciences, 2012 , 109 , 7245-7250
++ Frischen, A.; Smilek, D.; Eastwood, J. D. & Tipper, S. P., Inhibition of return in response to gaze cues: The roles of time course and fixation cue, Visual Cognition, 2007, 15
++ Birmingham, E. & Kingstone, A., Human social attention: A new look at past, present, and future investigations, Annals of the New York Academy of Sciences, Blackwell Publishing Inc, 2009, 1156
++ Florey, J.; Clifford, C. W.; Dakin, S. & Mareschal, I., Spatial limitations in averaging social cues, Scientific reports, Nature Publishing Group, 2016, 6
+
+???
+
+24
+5
+14
+12
+
+---
+
+class: inverse, center, middle
+
+## Für nächste Woche:
++ Was sind eure Lernziele?
++ Literatur entsprechend bearbeitet.
+
+## Noch Fragen?
+
+---
+
+class: inverse, center, middle
+
+
+# Vielen Dank für Eure Aufmerksamkeit!
+## Bis nächsten Montag.  
+
+# :-)
+
+
+
+
+
+
+
+.footnote[
+
+<font size="-2">Slides created via the R packages [**xaringan**](https://github.com/yihui/xaringan) and [knitr](http://yihui.name/knitr), and [R Markdown](https://rmarkdown.rstudio.com)</font size>
+
+]
