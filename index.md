@@ -12,7 +12,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 |Termine     |Thema                                                        |
 |------------|-------------------------------------------------------------|
 | **1.** 09. April 2018|Kennenlernen, [Folien](/slides/sitzung01.html)|
-| **2.** 16. April 2018|Theorie|
+| **2.** 16. April 2018|Theorie, [Folien](/slides/sitzung02.html)|
 | **3.** 23. April 2018|| 	
 | **4.** 30. April 2018||
 | **5.** 07. Mai 2018  | |
