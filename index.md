@@ -9,24 +9,20 @@ Die aktuelle Modulbeschreibung findet ihr [hier](https://www2.uni-wuerzburg.de/m
 ### Sitzungen
 Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der Marcusstraße 9-11, statt.
 
-|Termine     |Thema                                                        |
-|------------|-------------------------------------------------------------|
-| **1.** 09. April 2018|Kennenlernen, [Folien](/slides/sitzung01.html)|
-| **2.** 16. April 2018|Theorie, [Folien](/slides/sitzung02.html)|
-| **3.** 23. April 2018|| 	
-| **4.** 30. April 2018||
-| **5.** 07. Mai 2018  | |
-| **6.** 14. Mai 2018  ||
-| **7.** 28. Mai 2018  ||
-|~~21. Mai 2018~~      |*entfällt*: Pfingsten|
-| **8.** 04. Juni 2018 ||
-| **9.** 11. Juni 2018 ||
-|**10.** 18. Juni 2018 ||
-|**11.** 02. Juli 2018 ||
-|**12.** 25. Juni 2018 ||
-|**13.** 09. Juli 2018 |	Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
+|Termine           |Thema                                                        |
+|------------------|-------------------------------------------------------------|
+| **1.** 09.04.18  |Kennenlernen, [Folien](/slides/sitzung01.html)|
+| **2.** 16.04.18  |Theorie, [Folien](/slides/sitzung02.html)|
+| **3.** 23.04.18  || 	
+| **4.** 30.04.18  ||
+| **5.** 07.05.18  | |
+| **6.** 14.05.18  ||
+| **7.** 28.05.18  ||
+|~~21.05.18~~      |*entfällt*: Pfingsten|
+| **8.** 04.06.18  ||
+| **9.** 11.06.18  ||
+|**10.** 18.06.18  ||
+|**11.** 02.07.18  ||
+|**12.** 25.07.18  ||
+|**13.** 09.07.18  |	Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
 
-### Aufgaben
-Bitte die folgenden Aufgaben erledigen.
-- Hier stehen in Zukunft die Aufgaben,
-- die es zu erledigen gilt.
