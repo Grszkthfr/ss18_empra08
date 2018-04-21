@@ -11,7 +11,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 
 |Termine     |Thema                                                        |
 |------------|-------------------------------------------------------------|
-| **1.** 09. April 2018|Kennenlernen, [Folien](https://rawgit.com/Grszkthfr/ss18_empra08/master/folien/sitzung01.html)|
+| **1.** 09. April 2018|Kennenlernen, [Folien](https://github.com/Grszkthfr/ss18_empra08/blob/master/slides/sitzung01.Rmd)|
 | **2.** 16. April 2018|Theorie|
 | **3.** 23. April 2018|| 	
 | **4.** 30. April 2018||
