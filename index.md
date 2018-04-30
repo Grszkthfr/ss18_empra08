@@ -11,10 +11,10 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 
 |Termine           |Thema                                                        |
 |------------------|-------------------------------------------------------------|
-| **1.** 09.04.18  |Kennenlernen, [Folien](/slides/sitzung01.html)|
-| **2.** 16.04.18  |7 Todsünden psychologischer Forschung, [Folien](/slides/sitzung02.html)|
+| **1.** 09.04.18  |Kennenlernen, [Folien](/ss18_empra08/slides/sitzung01.html)|
+| **2.** 16.04.18  |7 Todsünden psychologischer Forschung, [Folien](/ss18_empra08/slides/sitzung02.html)|
 | **3.** 23.04.18  || 	
-| **4.** 30.04.18  |Entscheidung, [Folien](/slides/sitzung04.html)|
+| **4.** 30.04.18  |Entscheidung, [Folien](/ss18_empra08/slides/sitzung04.html)|
 | **5.** 07.05.18  |Hypothesen|
 | **6.** 14.05.18  |Präregistrierung & Erhebungsstart?!|
 | ~~21.05.18~~     |*entfällt*: Pfingsten|
