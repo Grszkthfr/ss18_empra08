@@ -157,7 +157,7 @@ background-position: 90% 50%
 
 ---
 
-background-image: url(img/gifs.gif)
+background-image: url(https://i.imgur.com/LOSaDWP.gif)
 background-size: contain
 class: center, bottom, inverse
 
