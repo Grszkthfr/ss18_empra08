@@ -18,7 +18,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | **5.** 07.05.18  |Hypothesen|
 | **6.** 14.05.18  |Präregistrierung & Erhebungsstart?!|
 | ~~21.05.18~~     |*entfällt*: Pfingsten|
-| **7.** 28.05.18  ||
+| **7.** 28.05.18  | |
 | **8.** 04.06.18  ||
 | **9.** 11.06.18  ||
 |**10.** 18.06.18  ||
