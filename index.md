@@ -16,7 +16,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | **3.** 23.04.18  || 	
 | **4.** 30.04.18  |Entscheidung, [Folien](/ss18_empra08/slides/sitzung04.html)|
 | **5.** 07.05.18  |Hypothesen|
-| **6.** 14.05.18  |Präregistrierung & Erhebungsstart?!|
+| **6.** 14.05.18  |(Präregistrierung)[/ss18_empra08/material/prereg_cos.md] & Erhebungsstart?!|
 | ~~21.05.18~~     |*entfällt*: Pfingsten|
 | **7.** 28.05.18  | |
 | **8.** 04.06.18  ||
@@ -25,4 +25,3 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 |**11.** 02.07.18  ||
 |**12.** 25.07.18  ||
 |**13.** 09.07.18  |	Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
-
