@@ -1,2 +1,2 @@
-# ss18_empra08
-Materialien für das Empra, Sommersemester 2018, Gruppe 08, Universität Würzburg
+# Einführung in empirische und experimentelle Forschungsmethoden
+Materialien für das Empra Gruppe 08, Sommersemester 2018, Universität Würzburg
