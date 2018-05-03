@@ -1,235 +1,235 @@
----
-title           : "Gaze cueing and group effects in a modified Posner cueing task"
-shorttitle      : "An eye tracking study"
-date            : "`r Sys.setlocale('LC_TIME', 'C'); format(Sys.time(), '%d\\\\. %B %Y')`"
+Study Information
+=================
 
-author: 
-  - name        : Jonas Großekathöfer
-    affiliation : 1
-  - name        : 
-    affiliation : 1
+Title
+-----
 
-affiliation:
-  - id          : 1
-    institution : Julius-Maximilians-Universität
-
-output: 
-  #pdf_document: prereg::cos_prereg
-  md_document:               # maybe later relevant for gh-pages
-    variant: markdown_github
-  
-  
----
-
-# Study Information
-
-## Title
 <!-- Provide the working title of your study. It may be the same title that you submit for publication of your final manuscript, but it is not a requirement. -->
+Gaze cueing and group effects in a modified Posner cueing task
 
-`r rmarkdown::metadata$title`
+Research questions
+------------------
 
-
-
-## Research questions
 <!-- Please list each research question included in this study. -->
-
 Enter your response here.
 
+Hypotheses
+----------
 
-## Hypotheses
 <!-- For each of the research questions listed in the previous section, provide one or multiple specific and testable hypotheses. Please state if the hypotheses are directional or non-directional. If directional, state the direction. A predicted effect is also appropriate here. Providing a short name for each hypothesis (e.g. H1, H2, etc.) will later allow you to easily relate your hypotheses to statistical tests in your analysis plan. -->
-
 Enter your response here.
 
+Sampling Plan
+=============
 
-
-# Sampling Plan
 <!-- Please describe how you plan to collect samples, as well as the number of samples you plan to collect and your rationale for this decision. Keep in mind that the data described in this section should be the actual data used for analysis, so if you are using a subset of a larger dataset, please describe the subset that will actually be used in your study. -->
+Existing data
+-------------
 
-
-## Existing data
 <!-- Preregistration is designed to make clear the distinction between confirmatory tests, specified prior to seeing the data, and exploratory analyses conducted after observing the data. Therefore, creating a research plan in which existing data will be used presents unique challenges. Please select the description that best describes your situation. Please do not hesitate to contact the Center for Open Science if you have questions about how to answer this questions (prereg@cos.io). -->
+**Registration prior to creation of data**. As of the date of submission
+of this research plan for preregistration, the data have not yet been
+collected, created, or realized.
 
-**Registration prior to creation of data**. As of the date of submission of this research plan for preregistration, the data have not yet been collected, created, or realized.
+**Registration prior to any human observation of the data**. As of the
+date of submission, the data exist but have not yet been quantified,
+constructed, observed, or reported by anyone—including individuals that
+are not associated with the proposed study. Examples include museum
+specimens that have not been measured and data that have been collected
+by non-human collectors and are inaccessible.
 
-**Registration prior to any human observation of the data**. As of the date of submission, the data exist but have not yet been quantified, constructed, observed, or reported by anyone---including individuals that are not associated with the proposed study. Examples include museum specimens that have not been measured and data that have been collected by non-human collectors and are inaccessible.
+**Registration prior to accessing the data**. As of the date of
+submission, the data exist, but have not been accessed by you or your
+collaborators. Commonly, this includes data that has been collected by
+another researcher or institution.
 
-**Registration prior to accessing the data**. As of the date of submission, the data exist, but have not been accessed by you or your collaborators. Commonly, this includes data that has been collected by another researcher or institution.
+**Registration prior to analysis of the data**. As of the date of
+submission, the data exist and you have accessed it, though no analysis
+has been conducted related to the research plan (including calculation
+of summary statistics). A common situation for this scenario when a
+large dataset exists that is used for many different studies over time,
+or when a data set is randomly split into a sample for exploratory
+analyses, and the other section of data is reserved for later
+confirmatory data analysis.
 
-**Registration prior to analysis of the data**. As of the date of submission, the data exist and you have accessed it, though no analysis has been conducted related to the research plan (including calculation of summary statistics). A common situation for this scenario when a large dataset exists that is used for many different studies over time, or when a data set is randomly split into a sample for exploratory analyses, and the other section of data is reserved for later confirmatory data analysis.
+**Registration following analysis of the data**. As of the date of
+submission, you have accessed and analyzed some of the data relevant to
+the research plan. This includes preliminary analysis of variables,
+calculation of descriptive statistics, and observation of data
+distributions. Studies that fall into this category are ineligible for
+the Pre-Registration Challenge. Please contact us (<prereg@cos.io>) and
+we will be happy to help you.
 
-**Registration following analysis of the data**. As of the date of submission, you have accessed and analyzed some of the data relevant to the research plan. This includes preliminary analysis of variables, calculation of descriptive statistics, and observation of data distributions. Studies that fall into this category are ineligible for the Pre-Registration Challenge. Please contact us (prereg@cos.io) and we will be happy to help you.
+Explanation of existing data
+----------------------------
 
-
-## Explanation of existing data
 <!-- If you indicate that you will be using some data that already exist in this study, please describe the steps you have taken to assure that you are unaware of any patterns or summary statistics in the data. This may include an explanation of how access to the data has been limited, who has observed the data, or how you have avoided observing any analysis of the specific data you will use in your study. The purpose of this question is to assure that the line between confirmatory and exploratory analysis is clear. -->
-
 Enter your response here.
 
+Data collection procedures
+--------------------------
 
-## Data collection procedures
 <!-- Please describe the process by which you will collect your data. If you are using human subjects, this should include the population from which you obtain subjects, recruitment efforts, payment for participation, how subjects will be selected for eligibility from the initial pool (e.g. inclusion and exclusion rules), and your study timeline. For studies that don't include human subjects, include information about how you will collect samples, duration of data gathering efforts, source or location of samples, or batch numbers you will use. -->
-
 Enter your response here.
 
+Sample size
+-----------
 
-## Sample size
 <!-- Describe the sample size of your study. How many units will be analyzed in the study? This could be the number of people, birds, classrooms, plots, interactions, or countries included. If the units are not individuals, then describe the size requirements for each unit. If you are using a clustered or multilevel design, how many units are you collecting at each level of the analysis? -->
-
 Enter your response here.
 
+Sample size rationale
+---------------------
 
-## Sample size rationale
 <!-- This could include a power analysis or an arbitrary constraint such as time, money, or personnel. -->
-
 Enter your response here.
 
+Stopping rule
+-------------
 
-## Stopping rule
 <!-- If your data collection procedures do not give you full control over your exact sample size, specify how you will decide when to terminate your data collection. -->
-
 Enter your response here.
 
+Variables
+=========
 
-
-# Variables
 <!-- In this section you can describe all variables (both manipulated and measured variables) that will later be used in your confirmatory analysis plan. In your analysis plan, you will have the opportunity to describe how each variable will be used. If you have variables which you are measuring for exploratory analyses, you are not required to list them, though you are permitted to do so. -->
+Manipulated variables
+---------------------
 
-
-## Manipulated variables
 <!-- Describe all variables you plan to manipulate and the levels or treatment arms of each variable. For observational studies and meta-analyses, simply state that this is not applicable. -->
-
 Enter your response here.
 
+Measured variables
+------------------
 
-## Measured variables
 <!-- Describe each variable that you will measure. This will include outcome measures, as well as any predictors or covariates that you will measure. You do not need to include any variables that you plan on collecting if they are not going to be included in the confirmatory analyses of this study. -->
-
 Enter your response here.
 
+Indices
+-------
 
-## Indices
 <!-- If any measurements are  going to be combined into an index (or even a mean), what measures will you use and how will they be combined? Include either a formula or a precise description of your method. If your are using a more complicated statistical method to combine measures (e.g. a factor analysis), you can note that here but describe the exact method in the analysis plan section. -->
-
 Enter your response here.
 
+Design Plan
+===========
 
-# Design Plan
 <!-- In this section, you will be asked to describe the overall design of your study. Remember that this research plan is designed to register a single study, so if you have multiple experimental designs, please complete a separate preregistration. -->
+Study type
+----------
 
+**Experiment**. A researcher randomly assigns treatments to study
+subjects, this includes field or lab experiments. This is also known as
+an intervention experiment and includes randomized controlled trials.
 
-## Study type
-
-**Experiment**. A researcher randomly assigns treatments to study subjects, this includes field or lab experiments. This is also known as an intervention experiment and includes randomized controlled trials.
-
-**Observational Study**. Data is collected from study subjects that are not randomly assigned to a treatment. This includes surveys, natural experiments, and regression discontinuity designs.
+**Observational Study**. Data is collected from study subjects that are
+not randomly assigned to a treatment. This includes surveys, natural
+experiments, and regression discontinuity designs.
 
 **Meta-Analysis**. A systematic review of published studies.
 
 **Other**. Please explain.
 
+Blinding
+--------
 
-## Blinding
 <!-- Blinding describes who is aware of the experimental manipulations within a study. Mark all that apply. -->
-
 No blinding is involved in this study.
 
-For studies that involve human subjects, they will not know the treatment group to which they have been assigned.
+For studies that involve human subjects, they will not know the
+treatment group to which they have been assigned.
 
-Personnel who interact directly with the study subjects (either human or non-human subjects) will not be aware of the assigned treatments.
+Personnel who interact directly with the study subjects (either human or
+non-human subjects) will not be aware of the assigned treatments.
 
-Personnel who analyze the data collected from the study are not aware of the treatment applied to any given group.
+Personnel who analyze the data collected from the study are not aware of
+the treatment applied to any given group.
 
+Study design
+------------
 
-## Study design
 <!-- Describe your study design. Examples include two-group, factorial, randomized block, and repeated measures. Is it a between (unpaired), within-subject (paired), or mixed design? Describe any counterbalancing required. Typical study designs for observation studies include cohort, cross sectional, and case-control studies. -->
-
 Enter your response here.
 
+Randomization
+-------------
 
-## Randomization
 <!-- If you are doing a randomized study, how will you randomize, and at what level? -->
-
 Enter your response here.
 
+Analysis Plan
+=============
 
-
-# Analysis Plan
 <!-- You may describe one or more confirmatory analysis in this section. Remember, all analyses specified in this section must be reported in the final article, and any additional analyses must be clearly labeled as exploratory or hypothesis generating in the final paper. A confirmatory analysis plan must state up front which variables are predictors (independent) and which are the outcomes (dependent), otherwise it is an exploratory analysis.
 
 You may describe exploratory analyses in this section, but a clear confirmatory analysis is required. An exploratory test is any test where a prediction is not made up front, or there are multiple possible tests that you are going to use. A statistically significant finding in an exploratory test is a great way to form a new confirmatory hypothesis, which could be registered at a later time.
 
 To help you keep track of multiple analyses, you may label each for your reference. -->
+Statistical models
+------------------
 
-
-## Statistical models
 <!-- What statistical model(s) will you use to test your hypothesis(ses)? Please include the type of model (e.g. ANOVA, regression, SEM, etc.) as well as the specification of the model (this includes all variables that will be included as predictors, outcomes, or covariates). Refer to the *Hypotheses* section to relate each hypothesis to a statistical analysis. Please specify any interactions that will be tested and remember that any test not included here must be labeled as an exploratory test in your final article. -->
-
 Enter your response here.
 
+Transformations
+---------------
 
-## Transformations
 <!-- If you plan on transforming, centering, recoding the data, or will require a coding scheme for categorical variables, please describe that process. -->
-
 Enter your response here.
 
+Follow-up analyses
+------------------
 
-## Follow-up analyses
 <!-- If not specified previously, will you be conducting any confirmatory analyses to follow up on effects in your statistical model, such as subgroup analyses, pairwise or complex contrasts, or follow-up tests from interactions. Refer to the *Hypotheses* section to relate each hypothesis to a statistical analysis. Remember that any analyses not specified in this research plan must be noted as exploratory. -->
-
 Enter your response here.
 
+Inference criteria
+------------------
 
-## Inference criteria
 <!-- What criteria will you use to make inferences? Please describe the information you'll use (e.g. p-values, Bayes factors, specific model fit indices), as well as cut-off criterion, where appropriate. Will you be using one or two tailed tests for each of your analyses? If you are comparing multiple conditions or testing multiple hypotheses, will you account for this? -->
-
 Enter your response here.
 
+Data exclusion
+--------------
 
-## Data exclusion
 <!-- How will you determine what data or samples, if any, to exclude from your analyses? How will outliers be handled? -->
-
 Enter your response here.
 
+Missing data
+------------
 
-## Missing data
 <!-- How will you deal with incomplete or missing data? -->
-
 Enter your response here.
 
+Assumptions (optional)
+----------------------
 
-## Assumptions (optional)
 <!-- If you are planning on testing the assumptions of the statistical tests included in your analysis plan, which assumptions will you test, how will you test them, what criteria will you use to make decisions based on that test, and what alternative statistical tests will you use? This may be an item where a decision tree could be helpful to plan and communicate the possibilities. -->
-
 Enter your response here.
 
+Exploratory analyses (optional)
+-------------------------------
 
-## Exploratory analyses (optional)
 <!-- If you plan to explore your data set to look for unexpected differences or relationships, you may describe those tests here. An exploratory test is any test where a prediction is not made up front, or there are multiple possible tests that you are going to use. A statistically significant finding in an exploratory test is a great way to form a new confirmatory hypothesis, which could be registered at a later time. -->
-
 Enter your response here.
 
+Analysis scripts (optional)
+---------------------------
 
-## Analysis scripts (optional)
 <!-- The purpose of a fully commented analysis script is to unambiguously provide the responses to all of the questions raised in the analysis section. This step is not common, but we encourage you to try creating an analysis script, refine it using a modeled dataset, and use it in place of your written analysis plan.
 
 Upload an analysis script with clear comments. This optional step is helpful in order to create a process that is completely transparent and increase the likelihood that your analysis can be replicated. We recommend that you run the code on a simulated dataset in order to check that it will run without errors. -->
-
 Enter your response here.
 
+Other
+=====
 
-# Other
+Other (Optional)
+----------------
 
-## Other (Optional)
 <!-- If there is any additional information that you feel needs to be included in your preregistration, please enter it here. -->
-
 Enter your response here.
 
-
-# References
-## 
-\vspace{-2pc}
-\setlength{\parindent}{-0.5in}
-\setlength{\leftskip}{-1in}
-\setlength{\parskip}{8pt}
-\noindent
+References
+==========
