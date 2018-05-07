@@ -303,17 +303,6 @@ rm(day, i, Nr., Thema)
 
 ---
 
-## Zeitplan
-
-+   ### Literatur
-
-+   ### Hypothesengenerierung
-
-+   ### Präregistrierung
-
-+   ### Erhebung
-
----
 class: inverse, center, middle
 
 # Vielen Dank für Eure Aufmerksamkeit!
