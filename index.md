@@ -16,12 +16,13 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | **3.** 23.04.18  || 	
 | **4.** 30.04.18  |Entscheidung, [Folien](/ss18_empra08/slides/sitzung04.html)|
 | **5.** 07.05.18  |Hypothesen, [Folien](/ss18_empra08/slides/sitzung05.html)|
-| **6.** 14.05.18  |[Präregistrierung](/ss18_empra08/material/prereg_cos.md) & Erhebungsstart?!|
-| ~~21.05.18~~     |*entfällt*: Pfingsten|
-| **7.** 28.05.18  | |
-| **8.** 04.06.18  ||
-| **9.** 11.06.18  ||
-|**10.** 18.06.18  ||
-|**11.** 02.07.18  ||
-|**12.** 25.07.18  ||
+| **6.** 14.05.18  |*Sitzung entfällt: Pfingsten, Erhebungsstart*|
+| ~~21.05.18~~     |*Sitzung entfällt*: Pfingsten|
+| **7.** 28.05.18  |*kurze Sitzung oder Programmieren?!*|
+| **8.** 04.06.18  |*Erhebungsende, Auswertung*|
+| **9.** 11.06.18  |*Auswertung*|
+|**10.** 18.06.18  |*Auswertung/Poster (Texte)*|
+|**11.** 02.07.18  |*Poster (Texte/Design)*|
+|**12.** 25.07.18  |*Poster (Design)*|
 |**13.** 09.07.18  |	Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
+
