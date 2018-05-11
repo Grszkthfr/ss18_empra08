@@ -1,0 +1,161 @@
+<h1 id="ablaufplan-für-die-eyetracking-studie-multiple-gaze-cues">Ablaufplan für die Eyetracking-Studie &quot;Multiple Gaze Cues&quot;</h1>
+<h2 id="vor-dem-experiment">Vor dem Experiment</h2>
+<ul>
+<li>Stromleiste am PC hinter der Kammer anschalten
+<ul>
+<li>Lüfter drehen kurz auf</li>
+</ul></li>
+<li>beide PCs hochfahren
+<ul>
+<li>auf dem linken PC läuft der Eyetracker und die Aufzeichnung der Eyetracking-Daten</li>
+<li>auf dem rechten PC läuft das Experiment (Präsentation der Stimuli) und die Aufzeichnung der Reaktionszeiten
+<ul>
+<li>Benutzername: Stimulation</li>
+<li>Passwort: Mesa2014</li>
+</ul></li>
+</ul></li>
+<li>Stromleiste, Licht und Lüftung in der Kabine einschalten</li>
+<li><strong>a)</strong> über die GUI
+<ul>
+<li>PsychoPy2 auf dem Desktop des rechten PC mit Doppelklick auf <img src="img/psypyicon.png" width="30"> öffnen</li>
+<li>Datei öffnen (falls noch nicht geöffnet)</li>
+</ul>
+<img src="img/01_fileopen.png" width="500">
+    -   über *Open recent* (s.o.)
+    -   über *Open...* die Datei "mGCP-III-et**.py**" öffnen
+-   Datei mit Klick auf <img src="img/02_run.png" width="30"> ausführen
+</li>
+<li><strong>b)</strong> über die Kommandozeile
+<ul>
+<li>Zum Experiment Ordner &quot;mGCP-III-et&quot; navigieren</li>
+<li>Rechtsklick im Ordner, in dem die Datei &quot;mGCP-III-et.py&quot; liegt, und &quot;Git Bash here&quot; anklicken</li>
+</ul>
+<img src="img/01_fileopen-bash.png" width="500">
+    -   Öffnet ein Terminal am angegebenen Pfad
+-   Befehlt "psypy mGCPT-III-et.py" eingeben  
+<img src="img/02_runbash.png" width="500">
+    -   *psypy* ist ein Link (genauer:  Alias für den Pfad) zum Program PsychoPy2
+    -   Das Arguemnt *mGCP-III-et.py* wird mit dem verlinkten Programm ausgeführt
+-   Mit *Enter* Datei ausführen
+</li>
+<li>Probandennummer bei <em>subject</em> eintragen</li>
+</ul>
+<img src="img/03_dialog.png" width="500">  
+    -   Beginnend mit 0 bei 1-9: 01, 02, ...  
+-   Mit *OK* Experiment starten
+-   Blanko Bildschirm erscheint auf dem Bildschirm in der Kabine  
+<img src="img/04_blank.png" width="500">
+-   ??Eyelink starten
+    -   Sample rate: 1k Hz, Tracking: centroid (Image display PC aus)
+
+<h2 id="proband">Proband</h2>
+<h3 id="proband-begrüßen">Proband begrüßen</h3>
+<ul>
+<li>Instruktion: „Hallo und herzlich Willkommen zu unserer Studie. Wir freuen uns, dass Sie sich zur Teilnahme bereit erklärt haben.“</li>
+<li>„Untersuchung läuft“ Schild an die Türe hängen</li>
+</ul>
+<h3 id="probandeninformation-und-einwilligungserklärung">Probandeninformation und Einwilligungserklärung</h3>
+<ul>
+<li>austeilen und unterschreiben lassen
+<ul>
+<li>falls Proband Fragen hat, diese beantworten):</li>
+</ul></li>
+<li>Instruktion: „Bevor wir mit dem Experiment beginnen, teile ich Ihnen eine Probandeninformation aus, auf der Sie Informationen zum Ablauf der Studie finden. Ich bitte Sie, die Informationen aufmerksam durchzulesen und sich bei weiteren Fragen zu melden. Wenn Sie alles durchgelesen und verstanden haben, können Sie dies mit Ihrer Unterschrift auf der Einwilligungserklärung bestätigen.“
+<ul>
+<li>eventuell Probandeninformation mündlich zusammenfassen</li>
+</ul></li>
+<li>im Falle einer Nachfrage, weshalb die Adresse angegeben werden muss darauf hinweisen, dass aufgrund fehlender Probandennummer sowieso keine Zuordnung erfolgen kann und Anonymität garantiert ist.</li>
+<li>Einwilligungserklärung in Ordner abheften</li>
+</ul>
+<h3 id="voraussetzungen">Voraussetzungen</h3>
+<ul>
+<li>KEIN Augen-Makeup!
+<ul>
+<li>Notfalls abschminken lassen.</li>
+</ul></li>
+<li>Überprüfen, dass Proband angenehm sitzt
+<ul>
+<li>ggf. höhenverstellbaren Tisch anpassen</li>
+<li><strong>NICHT</strong> dem Stuhl oder den Eyetracker verstellen</li>
+</ul></li>
+</ul>
+<h3 id="experiment-starten">Experiment Starten</h3>
+<ul>
+<li>Mit <em>Leertaste</em> auf der rechten Tastatur Instruktionen aufrufen</li>
+</ul>
+<img src="img/05_inst1.png" width="500">
+-   Proband Instruktionen durchlesen lassen
+
+<pre><code>&lt;img src=&quot;img/06_inst2.png&quot; width=&quot;500&quot;&gt;  
+
+&lt;img src=&quot;img/07_inst3.png&quot; width=&quot;500&quot;&gt;
+
+&lt;img src=&quot;img/08_inst4.png&quot; width=&quot;500&quot;&gt;
+
+&lt;img src=&quot;img/09_precalib.png&quot; width=&quot;500&quot;&gt;
+</code></pre>
+<h3 id="eyetracker-einstellen">Eyetracker einstellen</h3>
+<ul>
+<li>Sobald das</li>
+<li><strong>Unmittelbar vor der Kalibrierung</strong></li>
+<li>Schärfe am Eyetracker einstellen: über Hebel rechts am Tracker türkisfarbenen Punkt in Pupille möglichst klein einstellen</li>
+<li>Threshold der Software einstellen: Pfeiltaste links: Bildschirm wechselt von Auge auf Darstellung des gesamten Gesichts &gt; auf „a“ drücken für Autothreshold (Falls Pupille mit Lid verschwimmt, über Pfeiltasten hoch/runter den Threshold manuell einstellen)</li>
+</ul>
+<h3 id="hinweise-an-die-proband-vor-der-kalibrierung">Hinweise an die Proband vor der Kalibrierung</h3>
+<ul>
+<li>Lieber ein bisschen länger als zu kurz auf die einzelnen Fixationspunkte schauen</li>
+<li>Den Kopf nach Kalibrierung nicht mehr bewegen</li>
+<li>Nachfragen ob soweit alles verstanden wurde</li>
+<li>Türen lassen sich nicht verriegeln und von innen öffnen</li>
+<li>Sobald die Kalibrierung abgeschlossen ist, kann selbstständig das Experiment gestartet/ fortgesetzt werden</li>
+</ul>
+<h3 id="kalibrierung">Kalibrierung</h3>
+<ul>
+<li>Türen der Kabine schließen
+<ul>
+<li>Bis zum Ende des Blocks nicht mehr öffnen</li>
+</ul></li>
+<li>Am PC in Eyelink auf <em>Kalibrieren</em> klicken</li>
+<li>Auf Autotrigger klicken</li>
+<li>Sind die entstehenden Kreuze in ordentlichen spalten &gt; accept, wenn nicht nochmal kalibrieren</li>
+<li>Validierung</li>
+<li>Auf Validierung klicken</li>
+<li>Auf Auto trigger klicken</li>
+<li>Wenn unten rechts in Klammer „GOOD“ steht, dann Output/Record klicken zum Starten des Experiments</li>
+<li>Instruktion erscheint auf dem Bildschirm des Probanden</li>
+</ul>
+<img src="img/10_postcalib.png" width="500">
+
+<ul>
+<li>Der Block beginnt mit dem ersten Trialcounter</li>
+</ul>
+<img src="img/11_blockstart.png" width="500">
+
+<h2 id="3-während-des-experiments">3) Während des Experiments</h2>
+<ul>
+<li>Signal beobachten: während den ersten beiden Spalten (VP sieht Fixationskreuz) sollten die beiden Linien parallel sein
+<ul>
+<li>Entspricht der Baseline Messung</li>
+<li>Rote Balken sind Blinzler</li>
+</ul></li>
+<li>Blockende abwarten</li>
+</ul>
+<img src="img/13_blockend.png" width="500">
+    -   Trialcounter beachten  
+<img src="img/17_trialcounter.png" width="500">
+        -   Trial 96 ist der letzte Trial in Block 1
+        -   Trial 192  ist der letzte Trial in Block 2
+        -   Trial 288 ist der letzte Trial in Block 3
+        -   Trial 384 ist der letzte Trial im Block 4
+-   Zwischen den Blöcken, vor jeder Neukalibrierung auch Autothreshold neu bestimmen
+
+<h2 id="nach-dem-experiment">Nach dem Experiment</h2>
+<ul>
+<li>Daten transferieren: (…)</li>
+<li>Checken ob Daten vorhanden und ausreichend groß</li>
+</ul>
+<h2 id="probleme-und-deren-bewältigung">Probleme und deren Bewältigung</h2>
+<h3 id="datenverlust">Datenverlust</h3>
+<p>Datenverlust ist quasi <strong>nicht</strong> möglich. Die Daten werden fortlaufend aufgezeichnet, selbst wenn der PC unmittelbar ausgeht, sollten die Daten weiterhin vorhanden sein, solange der Rechner danach wieder normal hochfährt.</p>
+<h3 id="experiment-neustarten">Experiment neustarten</h3>
+<p>Das Experiment kann jederzeit an jedem beliebigen Block neugestartet werden. Dazu trägt man im ersten Dialogfenster unter <em>block</em> den Block ein, andem das Experiment wieder starten soll. Bei einem Absturz oder einer Unterbrechung <strong>immer mit dem nächsten Block beginnen</strong>.</p>
