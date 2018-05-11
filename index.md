@@ -28,4 +28,4 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 
 ### Eyetracking Anleitung
 
-[Hier](/instruction/instruction.html) findet ihr die Eyetracking Anleitung.
+[Hier](/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung.
