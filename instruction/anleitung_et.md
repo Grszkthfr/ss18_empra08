@@ -12,26 +12,26 @@
 -   **a)** über die GUI
     -   PsychoPy2 auf dem Desktop des rechten PC mit Doppelklick auf <img src="img/psypyicon.png" width="30"> öffnen
     -   Datei öffnen (falls noch nicht geöffnet)  
-    ![](img/01_fileopen.png)
+    <img src="img/01_fileopen.png" width="500">
         -   über *Open recent* (s.o.)
         -   über *Open...* die Datei "mGCP-III-et**.py**" öffnen
     -   Datei mit Klick auf <img src="img/02_run.png" width="30"> ausführen
 -   **b)** über die Kommandozeile
     -   Zum Experiment Ordner "mGCP-III-et" navigieren
     -   Rechtsklick im Ordner, in dem die Datei "mGCP-III-et.py" liegt, und "Git Bash here" anklicken  
-    ![](img/01_fileopen-bash.png)
+    <img src="img/01_fileopen-bash.png" width="500">
         -   Öffnet ein Terminal am angegebenen Pfad
     -   Befehlt "psypy mGCPT-III-et.py" eingeben  
-    ![](img/02_runbash.png)
+    <img src="img/02_runbash.png" width="500">
         -   *psypy* ist ein Link (genauer:  Alias für den Pfad) zum Program PsychoPy2
         -   Das Arguemnt *mGCP-III-et.py* wird mit dem verlinkten Programm ausgeführt
     -   Mit *Enter* Datei ausführen
 -   Probandennummer bei *subject* eintragen  
-![](img/03_dialog.png)  
+<img src="img/03_dialog.png" width="500">  
     -   Beginnend mit 0 bei 1-9: 01, 02, ...  
 -   Mit *OK* Experiment starten
 -   Blanko Bildschirm erscheint auf dem Bildschirm in der Kabine  
-![](img/04_blank.png)
+<img src="img/04_blank.png" width="500">
 -   ??Eyelink starten
     -   Sample rate: 1k Hz, Tracking: centroid (Image display PC aus)
 
@@ -59,16 +59,16 @@
 
 ### Experiment Starten
 -   Mit *Leertaste* auf der rechten Tastatur Instruktionen aufrufen
-![](img/05_inst1.png)
+<img src="img/05_inst1.png" width="500">
 -   Proband Instruktionen durchlesen lassen
 
-    ![](img/06_inst2.png)  
+    <img src="img/06_inst2.png" width="500">  
 
-    ![](img/07_inst3.png)
+    <img src="img/07_inst3.png" width="500">
 
-    ![](img/08_inst4.png)
+    <img src="img/08_inst4.png" width="500">
 
-    ![](img/09_precalib.png)
+    <img src="img/09_precalib.png" width="500">
 
 ### Eyetracker einstellen
 -   Sobald das
@@ -94,19 +94,19 @@
 -   Auf Auto trigger klicken
 -   Wenn unten rechts in Klammer „GOOD“ steht, dann Output/Record klicken zum Starten des Experiments  
 -   Instruktion erscheint auf dem Bildschirm des Probanden  
-![](img/10_postcalib.png)
+<img src="img/10_postcalib.png" width="500">
 
 -   Der Block beginnt mit dem ersten Trialcounter  
-![](img/11_blockstart.png)
+<img src="img/11_blockstart.png" width="500">
 
 ## 3)	Während des Experiments
 -   Signal beobachten: während den ersten beiden Spalten (VP sieht Fixationskreuz) sollten die beiden Linien parallel sein
     -   Entspricht der Baseline Messung
     -   Rote Balken sind Blinzler
 -   Blockende abwarten  
-![](img/13_blockend.png)
-    -   Trialcounter beachten
-![](img/17_trialcounter.png)
+<img src="img/13_blockend.png" width="500">
+    -   Trialcounter beachten  
+<img src="img/17_trialcounter.png" width="500">
         -   Trial 96 ist der letzte Trial in Block 1
         -   Trial 192  ist der letzte Trial in Block 2
         -   Trial 288 ist der letzte Trial in Block 3
