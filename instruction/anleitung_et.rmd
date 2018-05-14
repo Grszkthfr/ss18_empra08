@@ -95,12 +95,13 @@ letzte Aktualisierung: `r format(Sys.time())`
     -   **a)** *Enter* auf der rechten Tastatur, oder der Tastatur in der Kabine
     -   **b)** Über den Button FOLGT auf dem rechten PC
 
-### Hinweise an Probanden vor der Kalibrierung
--   Lieber ein bisschen länger als zu kurz auf die einzelnen Fixationspunkte schauen
--   Den Kopf nach Kalibrierung nicht mehr bewegen
--   Nachfragen ob soweit alles verstanden wurde
--   Türen lassen sich nicht verriegeln und von innen öffnen
--   Sobald die Kalibrierung abgeschlossen ist, kann selbstständig das Experiment gestartet/ fortgesetzt werden
+### Hinweise an Probanden
+-   Vor der Kalibrierung:
+    -   Lieber ein bisschen länger als zu kurz auf die einzelnen Fixationspunkte schauen
+    -   Den Kopf nach Kalibrierung nicht mehr bewegen
+    -   Nachfragen ob soweit alles verstanden wurde
+    -   Türen lassen sich nicht verriegeln und von innen öffnen
+    -   Sobald die Kalibrierung abgeschlossen ist, kann selbstständig das Experiment gestartet/ fortgesetzt werden
 
 ### Vor der Kalibrierung
 -   Tischhöhe für Probanden angenehm einstellen
@@ -122,7 +123,7 @@ letzte Aktualisierung: `r format(Sys.time())`
 -   Auf Validierung klicken
 -   Auf Auto trigger klicken
 -   Wenn unten rechts in Klammer „GOOD“ steht, dann Output/Record klicken zum Starten des Experiments  
--   Instruktion erscheint auf dem Bildschirm des Probanden  
+-   Instruktion erscheint auf dem Bildschirm in der Kabine  
 <img src="img/10_postcalib.png" width="750">  
 
 -   Der Block beginnt mit dem ersten Trialcounter  
@@ -136,17 +137,16 @@ letzte Aktualisierung: `r format(Sys.time())`
     -   Entspricht der Baseline Messung
     -   Rote Balken sind Blinzler
     
-### Blockende  
-<img src="img/13_blockend.png" width="750">  
--   Trialcounter beachten
+### Kalibration zwischen den Blöcken
+-   Instruktion für das Ende des Blocks erscheint auf dem Bildschirm in der Kabine  
+<img src="img/13_blockend.png" width="750">
+    -   Trialcounter beachten  
 <img src="img/17_trialcounter.png">
-
--   letzte Trials:
-    -   96 ist der letzte Trial in Block 1
-    -   Trial 192  ist der letzte Trial in Block 2
-    -   Trial 288 ist der letzte Trial in Block 3
-    -   Trial 384 ist der letzte Trial im Block 4
--   Zwischen den Blöcken [Kalibrieren](#kalibrierung)
+        -   96 ist der letzte Trial in Block 1
+        -   192  ist der letzte Trial in Block 2
+        -   288 ist der letzte Trial in Block 3
+        -   384 ist der letzte Trial im Block 4
+-   Erneut [kalibrieren](#kalibrierung)
     -   auch Autothreshold neu bestimmen
 
 ## Nach dem Experiment
