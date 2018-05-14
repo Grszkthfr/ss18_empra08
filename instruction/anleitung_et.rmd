@@ -15,16 +15,16 @@ letzte Aktualisierung: `r format(Sys.time())`
 ## Vorbereitung {#vorbereitung}
 
 ### Stromeinschalten
--   leiste am PC hinter der Kammer anschalten
+-   Steckereiste hinter der Kammer (hinter dem rechten Bildschirm) anschalten
     -   Lüfter drehen kurz auf
+- Steckerleiste, Licht und Lüftung in der Kabine einschalten
+
 
 ### PCs hochfahren
 -   auf dem linken PC läuft der Eyetracker und die Aufzeichnung der Eyetracking-Daten
 -   auf dem rechten PC läuft das Experiment (Präsentation der Stimuli) und die Aufzeichnung der Reaktionszeiten  
     -   Benutzername: Stimulation
     -   Passwort: *bekannt*
-        
-### Stromleiste, Licht und Lüftung in der Kabine einschalten
 
 ### PsychoPy starten
 
@@ -38,11 +38,11 @@ letzte Aktualisierung: `r format(Sys.time())`
 -   Datei mit Klick auf <img src="img/02_run.png" width="30"> ausführen
     
 #### **b)** über die Kommandozeile
--   Zum Experiment Ordner PFAD UND DATEINAME FOLGT navigieren
+-   Zum Ordner PFAD UND DATEINAME FOLGT mit dem Experiment navigieren
 -   Rechtsklick im Ordner, in dem die Datei "mGCP-III-et.py" liegt, und "Git Bash here" anklicken  
 <img src="img/01_fileopen-bash.png">  
     -   Öffnet ein Terminal am angegebenen Pfad
--   Befehlt "psypy mGCPT-III-et.py" eingeben  
+-   Befehlt "psypy mGCP-III-et.py" eingeben  
 <img src="img/02_runbash.png">  
     -   *psypy* ist ein Link (genauer:  Alias für den Pfad) zum Program PsychoPy2
     -   Das Arguemnt *mGCP-III-et.py* wird mit dem verlinkten Programm ausgeführt
