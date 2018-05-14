@@ -32,9 +32,9 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 Alle benötigten Unterlagen (außer die offiziellen Fragebögen), bitte durchgehen und selbstständig aktualisieren und/oder anpassen:
 
 -   [bilder-rating.docx](/material/experimentalunterlagen/bilder-rating.docx)
--   [eve_eyetracking-studie.docx](/material/experimentalunterlagen/eve_eyetracking-studie.docx)*
--   [fragen-experiment_empra_ss18.docx](/material/experimentalunterlagen/fragen-experiment_empra_ss18.docx)*
--   [probandeninformation_eyetracking-studie.docx](/material/experimentalunterlagen/probandeninformation_eyetracking-studie.docx)*
+-   [eve_eyetracking-studie.docx](/material/experimentalunterlagen/eve_eyetracking-studie.docx)
+-   [fragen-experiment_empra_ss18.docx](/material/experimentalunterlagen/fragen-experiment_empra_ss18.docx)
+-   [probandeninformation_eyetracking-studie.docx](/material/experimentalunterlagen/probandeninformation_eyetracking-studie.docx)
 -   [versuchsteilnehmerliste.docx](/material/experimentalunterlagen/versuchsteilnehmerliste.docx)
 
 
