@@ -5,44 +5,57 @@ output:
   html_document:
     toc: yes
     toc_float: yes
-    toc_depth: 3
+    toc_depth: 4
 ---
 
 letzte Aktualisierung: `r format(Sys.time())`
 
+<!-- Color for the frames for the screenshots: #708090 -->
 
-## Vorbereitung
--   Stromleiste am PC hinter der Kammer anschalten
+## Vorbereitung {#vorbereitung}
+
+### Stromeinschalten
+-   leiste am PC hinter der Kammer anschalten
     -   Lüfter drehen kurz auf
--   beide PCs hochfahren
-    -   auf dem linken PC läuft der Eyetracker und die Aufzeichnung der Eyetracking-Daten
-    -   auf dem rechten PC läuft das Experiment (Präsentation der Stimuli) und die Aufzeichnung der Reaktionszeiten
-        -   Benutzername: Stimulation
-        -   Passwort: Mesa2014
--   Stromleiste, Licht und Lüftung in der Kabine einschalten
--   **a)** über die GUI
-    -   PsychoPy2 auf dem Desktop des rechten PC mit Doppelklick auf <img src="img/psypyicon.png" width="30"> öffnen
-    -   Datei öffnen (falls noch nicht geöffnet)  
-    <img src="img/01_fileopen.png">
-        -   über *Open recent* (s.o.)
-        -   über *Open...* die Datei "mGCP-III-et**.py**" öffnen
-    -   Datei mit Klick auf <img src="img/02_run.png" width="30"> ausführen
--   **b)** über die Kommandozeile
-    -   Zum Experiment Ordner "mGCP-III-et" navigieren
-    -   Rechtsklick im Ordner, in dem die Datei "mGCP-III-et.py" liegt, und "Git Bash here" anklicken  
-    <img src="img/01_fileopen-bash.png">  
-        -   Öffnet ein Terminal am angegebenen Pfad
-    -   Befehlt "psypy mGCPT-III-et.py" eingeben  
-    <img src="img/02_runbash.png">  
-        -   *psypy* ist ein Link (genauer:  Alias für den Pfad) zum Program PsychoPy2
-        -   Das Arguemnt *mGCP-III-et.py* wird mit dem verlinkten Programm ausgeführt
-    -   Mit *Enter* Datei ausführen
--   Probandennummer bei *subject* eintragen  
-<img src="img/03_dialog.png">  
-    -   Beginnend mit 0 bei 1-9: 01, 02, ...  
--   Mit *OK* Experiment starten
--   Blanko Bildschirm erscheint auf dem Bildschirm in der Kabine  
-<img src="img/04_blank.png" width="750">
+
+### PCs hochfahren
+-   auf dem linken PC läuft der Eyetracker und die Aufzeichnung der Eyetracking-Daten
+-   auf dem rechten PC läuft das Experiment (Präsentation der Stimuli) und die Aufzeichnung der Reaktionszeiten  
+    -   Benutzername: Stimulation
+    -   Passwort: *bekannt*
+        
+### Stromleiste, Licht und Lüftung in der Kabine einschalten
+
+### PsychoPy starten
+
+#### **a)** über die GUI
+
+-   PsychoPy2 auf dem Desktop des rechten PC mit Doppelklick auf <img src="img/psypyicon.png" width="30"> öffnen
+-   Datei öffnen (falls noch nicht geöffnet)  
+<img src="img/01_fileopen.png">
+    -   über *Open recent* (s.o.)
+    -   über *Open...* die Datei "mGCP-III-et**.py**" öffnen
+-   Datei mit Klick auf <img src="img/02_run.png" width="30"> ausführen
+    
+#### **b)** über die Kommandozeile
+-   Zum Experiment Ordner PFAD UND DATEINAME FOLGT navigieren
+-   Rechtsklick im Ordner, in dem die Datei "mGCP-III-et.py" liegt, und "Git Bash here" anklicken  
+<img src="img/01_fileopen-bash.png">  
+    -   Öffnet ein Terminal am angegebenen Pfad
+-   Befehlt "psypy mGCPT-III-et.py" eingeben  
+<img src="img/02_runbash.png">  
+    -   *psypy* ist ein Link (genauer:  Alias für den Pfad) zum Program PsychoPy2
+    -   Das Arguemnt *mGCP-III-et.py* wird mit dem verlinkten Programm ausgeführt
+-   Mit *Enter* Datei ausführen
+    
+### Probandennummer eintragen {#probandennummer}  
+-   Probandennummern beginnen mit 0 bei 1-9: 01, 02, ... bei *subject* eintragen
+    -   Probandennummern dürfen ausschließlich die Ziffern 0-9 enthalten und **keine** Buchstaben oder Sonderzeichen (inkl. Leerzeichen)
+-   *block* sollte unverändert bleiben (siehe [Experiment neustarten](#experimentneustart))  
+<img src="img/03_dialog.png">
+-   Mit *OK* Experiment starten  
+-   Blanko Display erscheint auf dem Bildschirm in der Kabine
+    <img src="img/04_blank.png" width="750">
 
 ## Vor dem Experiment
 
@@ -78,9 +91,9 @@ letzte Aktualisierung: `r format(Sys.time())`
 
 ### Eyetracker einstellen
 -   Sobald die Kalibrierungsinstruktion erscheint kann mit der Kalibrierung gestartet werden.
--   Zuerst das Kamerabild auf den Bildschirm in der Kabine übertragen mit:
+-   Zuerst das Kamerabild auf den Bildschirm in der Kabine übertragen mit
     -   **a)** *Enter* auf der rechten Tastatur, oder der Tastatur in der Kabine
-    -   **b)** Über den Button FOLGT
+    -   **b)** Über den Button FOLGT auf dem rechten PC
 
 ### Hinweise an Probanden vor der Kalibrierung
 -   Lieber ein bisschen länger als zu kurz auf die einzelnen Fixationspunkte schauen
@@ -99,9 +112,9 @@ letzte Aktualisierung: `r format(Sys.time())`
     -   *a* drücken für Autothreshold
     -   Falls Pupille mit Lid verschwimmt, über Pfeiltasten hoch/runter Threshold manuell einstellen
 
-### Kalibrierung
--   Türen der Kabine schließen
-    -   Bis zum Ende des Blocks nicht mehr öffnen
+### Kalibrierung {#kalibrierung}
+-   beide Türen der Kabine bis zum Ende des Experiments schließen
+    -   nur bei Blockende oder im Notfall öffnen
 -   Am PC in Eyelink auf *Kalibrieren* klicken
 -   Auf Autotrigger klicken
 -   Sind die entstehenden Kreuze in ordentlichen spalten > accept, wenn nicht nochmal kalibrieren
@@ -116,18 +129,25 @@ letzte Aktualisierung: `r format(Sys.time())`
 <img src="img/11_blockstart.png" width="750">
 
 ## Während des Experiments
--   Signal beobachten: während den ersten beiden Spalten (VP sieht Fixationskreuz) sollten die beiden Linien parallel sein
+
+### Signal
+-   BESCHREIBUNG FOLGT
+-   während den ersten beiden Spalten (VP sieht Fixationskreuz) sollten die beiden Linien parallel sein
     -   Entspricht der Baseline Messung
     -   Rote Balken sind Blinzler
--   Blockende abwarten  
+    
+### Blockende  
 <img src="img/13_blockend.png" width="750">  
-    -   Trialcounter beachten  
-<img src="img/17_trialcounter.png">  
-        -   Trial 96 ist der letzte Trial in Block 1
-        -   Trial 192  ist der letzte Trial in Block 2
-        -   Trial 288 ist der letzte Trial in Block 3
-        -   Trial 384 ist der letzte Trial im Block 4
--   Zwischen den Blöcken, vor jeder Neukalibrierung auch Autothreshold neu bestimmen
+-   Trialcounter beachten
+<img src="img/17_trialcounter.png">
+
+-   letzte Trials:
+    -   96 ist der letzte Trial in Block 1
+    -   Trial 192  ist der letzte Trial in Block 2
+    -   Trial 288 ist der letzte Trial in Block 3
+    -   Trial 384 ist der letzte Trial im Block 4
+-   Zwischen den Blöcken [Kalibrieren](#kalibrierung)
+    -   auch Autothreshold neu bestimmen
 
 ## Nach dem Experiment
 -   Daten transferieren
@@ -136,12 +156,16 @@ letzte Aktualisierung: `r format(Sys.time())`
 
 ## Probleme und deren Bewältigung
 
-### Datenverlust
+### Datenverlust {#datenverlust}
 Datenverlust ist quasi **nicht** möglich. Die Daten werden fortlaufend aufgezeichnet, selbst wenn der PC unmittelbar ausgeht, sollten die Daten weiterhin vorhanden sein, solange der Rechner danach wieder normal hochfährt.
 
-### Eyetracker Neustart
+### Eyetracker neustarten {#eyetrackerneustart}
 FOLGT
 
-### Experiment neustarten
-Das Experiment kann jederzeit an jedem beliebigen Block neugestartet werden. Dazu trägt man im ersten Dialogfenster unter *block* den Block ein, andem das Experiment wieder starten soll.
+### Experiment neustarten {#experimentneustart}
+Das Experiment kann jederzeit an jedem beliebigen Block neugestartet werden. Dazu trägt man im ersten Dialogfenster unter *block* den Block ein, andem das Experiment wieder starten soll (siehe [Probandennummer eintragen](#probandennummer)).  
 Bei einem Absturz oder einer Unterbrechung **immer mit dem nächsten Block beginnen**.
+
+### Experimennt abbrechen
+
+Das Experiment kann jederzeit mit der Taste *Q* abgebrochen werden. Alle Daten bis zum Abbruch bleiben erhalten (siehe [Datenverlust](#datenverlust)).
