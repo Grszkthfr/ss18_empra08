@@ -38,24 +38,27 @@ letzte Aktualisierung: `r format(Sys.time())`
 -   Datei mit Klick auf <img src="img/02_run.png" width="30"> ausführen
     
 #### **b)** über die Kommandozeile
--   Zum Ordner PFAD UND DATEINAME FOLGT mit dem Experiment navigieren
+-   Zum Ordner "C:\Users\Public\Documents\Projects\jonas\mGCPT-III-et\experiment" mit dem Experiment navigieren
 -   Rechtsklick im Ordner, in dem die Datei "mGCP-III-et.py" liegt, und "Git Bash here" anklicken  
 <img src="img/01_fileopen-bash.png">  
     -   Öffnet ein Terminal am angegebenen Pfad
 -   Befehlt "psypy mGCP-III-et.py" eingeben  
 <img src="img/02_runbash.png">  
+    -   Tipp: mit dem *Tabulator* könnt ihr automatisch das geschriebene Vervollstädnigen: mG + *Tab* wird dann zu "mGCP-III-et."
     -   *psypy* ist ein Link (genauer:  Alias für den Pfad) zum Program PsychoPy2
     -   Das Arguemnt *mGCP-III-et.py* wird mit dem verlinkten Programm ausgeführt
 -   Mit *Enter* Datei ausführen
     
 ### Probandennummer eintragen {#probandennummer}  
--   Probandennummern beginnen mit 0 bei 1-9: 01, 02, ... bei *subject* eintragen
-    -   Probandennummern dürfen ausschließlich die Ziffern 0-9 enthalten und **keine** Buchstaben oder Sonderzeichen (inkl. Leerzeichen)
--   *block* sollte unverändert bleiben (siehe [Experiment neustarten](#experimentneustart))  
+-   *block* sollte unverändert bleiben (siehe [Experiment neustarten](#experimentneustart))
+-   Probandennummern beginnen mit 0 bei 1-9: 01, 02, ... bei *subject* eintragen  
 <img src="img/03_dialog.png">
+    -   Probandennummern dürfen ausschließlich die Ziffern 0-9 enthalten und **keine** Buchstaben oder Sonderzeichen (inkl. Leerzeichen)
 -   Mit *OK* Experiment starten  
--   Blanko Display erscheint auf dem Bildschirm in der Kabine
+-   Blanko Display erscheint auf dem Experiment-Bildschirm in der Kabine:  
     <img src="img/04_blank.png" width="750">
+-   Eyetracker-Bildschirm:  
+    <img src="img/93et.png" width="750">
 
 ## Vor dem Experiment
 
@@ -73,7 +76,7 @@ letzte Aktualisierung: `r format(Sys.time())`
 
 ### Voraussetzungen
 -   KEIN Augen-Makeup!
-    -   Notfalls abschminken lassen.
+    -   Ggfs. abschminken lassen.
 -   Brille?!
 
 ### Experiment starten
@@ -90,15 +93,15 @@ letzte Aktualisierung: `r format(Sys.time())`
     <img src="img/09_precalib.png" width="750">
 
 ### Eyetracker einstellen
--   Sobald die Kalibrierungsinstruktion erscheint kann mit der Kalibrierung gestartet werden.
+-   Sobald die Kalibrierungsinstruktion erscheint kann mit der Einstellung des Eyetrackers gestartet werden
 -   Zuerst das Kamerabild auf den Bildschirm in der Kabine übertragen mit
-    -   **a)** *Enter* auf der rechten Tastatur, oder der Tastatur in der Kabine
-    -   **b)** Über den Button FOLGT auf dem rechten PC
+    -   **a)** *Enter* auf der Experiment-Tastatur, oder der Tastatur in der Kabine
+    -   **b)** Über den Button *Image -> Display PC* auf dem Eyetracker-PC
 
 ### Hinweise an Probanden
 -   Vor der Kalibrierung:
     -   Lieber ein bisschen länger als zu kurz auf die einzelnen Fixationspunkte schauen
-    -   Den Kopf nach Kalibrierung nicht mehr bewegen
+    -   Den Kopf nach Kalibrierung ambesten nicht mehr bewegen
     -   Nachfragen ob soweit alles verstanden wurde
     -   Türen lassen sich nicht verriegeln und von innen öffnen
     -   Sobald die Kalibrierung abgeschlossen ist, kann selbstständig das Experiment gestartet/ fortgesetzt werden
@@ -106,27 +109,36 @@ letzte Aktualisierung: `r format(Sys.time())`
 ### Vor der Kalibrierung
 -   Tischhöhe für Probanden angenehm einstellen
     -   **NICHT** den Stuhl oder den Eyetracker verstellen
+    -   ggf. Kinnstütze anpassen
 -   **Schärfe** am Eyetracker einstellen
     -   Mit dem Hebel rechts am Tracker den türkisfarbenen Punkt in Pupille möglichst minimieren
 -   **Threshold** der Software einstellen
-    -   Pfeiltaste links: Bildschirm wechselt von Auge auf Darstellung des gesamten Gesichts
+    -   *Pfeiltasten links/rechts* auf der Experiment-Tastatur: Bildschirm wechselt von Auge auf Darstellung des gesamten Gesichts
     -   *a* drücken für Autothreshold
-    -   Falls Pupille mit Lid verschwimmt, über Pfeiltasten hoch/runter Threshold manuell einstellen
-
-### Kalibrierung {#kalibrierung}
+    -   Falls Pupille mit Lid verschwimmt, über *Pfeiltasten hoch/runter* Threshold manuell einstellen
 -   beide Türen der Kabine bis zum Ende des Experiments schließen
     -   nur bei Blockende oder im Notfall öffnen
--   Am PC in Eyelink auf *Kalibrieren* klicken
--   Auf Autotrigger klicken
--   Sind die entstehenden Kreuze in ordentlichen spalten > accept, wenn nicht nochmal kalibrieren
--   Validierung
--   Auf Validierung klicken
--   Auf Auto trigger klicken
--   Wenn unten rechts in Klammer „GOOD“ steht, dann Output/Record klicken zum Starten des Experiments  
--   Instruktion erscheint auf dem Bildschirm in der Kabine  
+
+### Kalibrierung {#kalibrierung}
+-   Türen sind geschlossen
+-   mit *beliebiger* Taste auf der rechten Tastatur die Kalibrierung starten  
+    <img src="img/93et.png" width="750">  
+-   Am Eyetracker-PC in Eyelink auf *Calibrate* klicken oder *c* auf der Experiment-Tastatur
+    -   Mit *autotrigger* oder *Enter* die Kalibrierung starten
+        -   wenn *autotrigger* nicht startete, dann FOLGT
+    -   Abgebildeten Kreuze in ordentlichen Spalten angeordnet?
+        -   Ja: *accept*
+        -   Nein: Erneut kalibrieren
+-   Zur Validierung auf *Validate* klicken oder *v* auf der Experiment-Tastatur
+    -   Mit *autotrigger* oder *Enter* die Kalibrierung starten
+        -   wenn *autotrigger* nicht startete, dann FOLGT
+    -   RIGHT ERROR: unter 1 und *GOOD*?
+        -   Ja: Auf Output/Record klicken
+        -   Nein: erneut validieren, ggf. erneut kalibrieren
+-   Instruktion erscheint auf dem Bildschirm in der Kabine und der Proband kann das Experiment selbst starten  
 <img src="img/10_postcalib.png" width="750">  
 
--   Der Block beginnt mit dem ersten Trialcounter  
+-   Der Block beginnt mit dem ersten Trial  
 <img src="img/11_blockstart.png" width="750">
 
 ## Während des Experiments
@@ -137,7 +149,7 @@ letzte Aktualisierung: `r format(Sys.time())`
     -   Entspricht der Baseline Messung
     -   Rote Balken sind Blinzler
     
-### Kalibration zwischen den Blöcken
+### Kalibrierung zwischen den Blöcken
 -   Instruktion für das Ende des Blocks erscheint auf dem Bildschirm in der Kabine  
 <img src="img/13_blockend.png" width="750">
     -   Trialcounter beachten  
@@ -151,8 +163,11 @@ letzte Aktualisierung: `r format(Sys.time())`
 
 ## Nach dem Experiment
 -   Daten transferieren
-    -   FOLGT
--   Checken ob Daten vorhanden und ausreichend groß
+-   Kontrollieren, ob die Daten transferiert wurden
+    -   Im Ordner "../data/raw/" liegen für jeden Proband 5 Dateien
+        -   eine *.csv*-Datei mit den Reaktionszeiten
+        -   für jeden Block eine *.EDF*-Datei für die Augenbewegungen
+    -   *.csv*-Dateinen sollten ähnlich groß sein, und die *.EDF*-Dateien auch
 
 ## Probleme und deren Bewältigung
 
