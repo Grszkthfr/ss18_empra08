@@ -27,6 +27,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 |**13.** 09.07.18  |	Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
 
 ## Experiment
+-   [Laborplan](http://www.psychologie.uni-wuerzburg.de/psy1/laborbelegung_klinische/web/week.php?year=2018&month=5&day=25&area=3&room=45)
 
 ### Experimentalunterlagen
 Alle benötigten Unterlagen (außer den offiziellen Fragebögen), bitte durchgehen und selbstständig aktualisieren und/oder anpassen:

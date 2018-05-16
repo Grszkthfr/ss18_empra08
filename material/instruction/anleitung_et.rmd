@@ -18,6 +18,7 @@ letzte Aktualisierung: `r format(Sys.time())`
 -   Steckereiste hinter der Kammer (hinter dem rechten Bildschirm) anschalten
     -   Lüfter drehen kurz auf
 - Steckerleiste, Licht und Lüftung in der Kabine einschalten
+    -   Lüftung so neidrig drehen, dass die in der Kabine nicht (schwach) hörbar ist
 
 
 ### PCs hochfahren
@@ -28,13 +29,13 @@ letzte Aktualisierung: `r format(Sys.time())`
 
 ### PsychoPy starten
 
-#### **a)** über die GUI
--   PsychoPy2 auf dem Desktop des Experiment-PC mit Doppelklick auf <img src="img/psypyicon.png" width="30"> öffnen
--   Datei öffnen (falls noch nicht geöffnet)  
+#### ~~**a)** über die GUI~~
+-   ~~PsychoPy2 auf dem Desktop des Experiment-PC mit Doppelklick auf <img src="img/psypyicon.png" width="30"> öffnen~~
+-   ~~Datei öffnen (falls noch nicht geöffnet)~~  
 <img src="img/01_fileopen.png">
-    -   über *Open recent* (s.o.)
-    -   über *Open...* die Datei "mGCP-III-et**.py**" öffnen
--   Datei mit Klick auf <img src="img/02_run.png" width="30"> ausführen
+    -   ~~über *Open recent* (s.o.)~~
+    -   ~~über *Open...* die Datei "mGCP-III-et**.py**" öffnen~~
+-   ~~Datei mit Klick auf <img src="img/02_run.png" width="30"> ausführen~~
 
 #### **b)** über die Kommandozeile
 -   Zum Ordner "C:\\Users\\Public\\Documents\\Projects\\jonas\\mGCPT-III-et\\experiment\" mit dem Experiment navigieren
@@ -58,8 +59,10 @@ letzte Aktualisierung: `r format(Sys.time())`
 -   Mit *OK* Experiment starten  
 -   Blanko Display erscheint auf dem Experiment-Bildschirm in der Kabine  
     <img src="img/04_blank.png" width="750">
--   Eyetracker-Bildschirm, nach Start des Experiments  
-    <img src="img/93et.png" width="750">
+-   Eyetracker-Bildschirm, nach dem Hochfahren  
+    <img src="img/92et.png" width="750">
+-   Eyetracker-Bildschirm, nach Start von "mGCP-III-et.py"  
+    FOLGT
 
 ### Materialien vorbereiten
 -   Fragebögen, Probandeninformation und Einverständiserklärung rauslegen
@@ -84,6 +87,12 @@ letzte Aktualisierung: `r format(Sys.time())`
 -   KEIN Augen-Makeup!
     -   Ggfs. abschminken lassen.
 -   Brille?!
+
+### Sitzposition
+-   Tischhöhe für Probanden angenehm einstellen
+    -   **NICHT** den Stuhl oder den Eyetracker verstellen
+    -   ggf. Kinnstütze anpassen
+-   Porband muss den ganzen Bildschirm sehen können
 
 ### Experiment starten
 -   Mit *Leertaste* auf der Experiment-Tastatur die Instruktionen aufrufen
@@ -113,9 +122,6 @@ letzte Aktualisierung: `r format(Sys.time())`
     -   Sobald die Kalibrierung abgeschlossen ist, kann selbstständig das Experiment gestartet/ fortgesetzt werden
 
 ### Vor der Kalibrierung
--   Tischhöhe für Probanden angenehm einstellen
-    -   **NICHT** den Stuhl oder den Eyetracker verstellen
-    -   ggf. Kinnstütze anpassen
 -   **Schärfe** am Eyetracker einstellen
     -   Mit dem Hebel rechts am Tracker den türkisfarbenen Punkt in Pupille möglichst minimieren
 -   **Threshold** der Software einstellen
@@ -129,7 +135,7 @@ letzte Aktualisierung: `r format(Sys.time())`
 
 ### Kalibrierung & Validierung {#kalibrierung}
 -   Türen sind geschlossen
--   mit *beliebiger* Taste auf der Experiment-Tastatur die Kalibrierung starten  
+...  
     <img src="img/93et.png" width="750">
 ```
 ##############################################################################
@@ -150,7 +156,7 @@ Mit 'Escape' Kamerasetup verlassen.
 -   **a)** ![](img/calibrate.png) klicken *oder*
 -   **b)** *c* auf der Experiment-Tastatur
 -   Mit *autotrigger* oder *Enter* die Kalibrierung starten
-        -   wenn *autotrigger* nicht startete, dann FOLGT
+        -   wenn *autotrigger* nicht startete, dann erneut *auto trigger* klicken
 -   Abgebildeten Kreuze in ordentlichen Spalten angeordnet?
     -   Ja: *accept*  
     <img src="img/calib-ok.png" width="100">
@@ -164,7 +170,7 @@ Mit 'Escape' Kamerasetup verlassen.
 -   *RIGHT ERROR*: unter 1 und *GOOD* **und** Abweichunge zu den Punkten <1?
     -   Ja: *accept* klicken  
      <img src="img/validation_good.png" width="100">
-    -   Nein: erneut validieren, ggf. erneut kalibrieren  
+    -   Nein: erneut validieren mit *RESTART*, ggf. *DISCARD* und erneut kalibrieren  
     <img src="img/validation_bad.png" width="100">
 
 #### Trials starten
