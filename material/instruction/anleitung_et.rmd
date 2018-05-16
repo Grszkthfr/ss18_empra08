@@ -61,8 +61,6 @@ letzte Aktualisierung: `r format(Sys.time())`
     <img src="img/04_blank.png" width="750">
 -   Eyetracker-Bildschirm, nach dem Hochfahren  
     <img src="img/92et.png" width="750">
--   Eyetracker-Bildschirm, nach Start von "mGCP-III-et.py"  
-    FOLGT
 
 ### Materialien vorbereiten
 -   Fragebögen, Probandeninformation und Einverständiserklärung rauslegen
@@ -86,7 +84,7 @@ letzte Aktualisierung: `r format(Sys.time())`
 ### Voraussetzungen
 -   KEIN Augen-Makeup!
     -   Ggfs. abschminken lassen.
--   Brille?!
+-   Nur ohne Brille, Sehschwäche mit Kontaktlinsen ausgleichen
 
 ### Sitzposition
 -   Tischhöhe für Probanden angenehm einstellen
@@ -134,9 +132,7 @@ letzte Aktualisierung: `r format(Sys.time())`
 ## Während des Experiments
 
 ### Kalibrierung & Validierung {#kalibrierung}
--   Türen sind geschlossen
-...  
-    <img src="img/93et.png" width="750">
+-   Türen sind geschlossen  
 ```
 ##############################################################################
 ### Eyelink Kamerasetup Anleitung ############################################
@@ -152,25 +148,29 @@ Mit 'Escape' Kamerasetup verlassen.
 ##############################################################################
 ##############################################################################
 ```
+
+-   beliebige Taste drücken, um ins EyeLink Kamerasetup zu kommen  
+<img src="img/93et.png" width="750">
+
 #### Kalibrierung starten
 -   **a)** ![](img/calibrate.png) klicken *oder*
 -   **b)** *c* auf der Experiment-Tastatur
--   Mit *autotrigger* oder *Enter* die Kalibrierung starten
-        -   wenn *autotrigger* nicht startete, dann erneut *auto trigger* klicken
+-   Mit *auto trigger* oder *Enter* die Kalibrierung starten
+        -   wenn *auto trigger* nicht startete, dann erneut *auto trigger* klicken
 -   Abgebildeten Kreuze in ordentlichen Spalten angeordnet?
-    -   Ja: *accept*  
+    -   Ja: ![](img/accept.png) klicken  
     <img src="img/calib-ok.png" width="100">
-    -   Nein: Erneut kalibrieren
+    -   Nein: ![](img/restart.png) klicken
 
 #### Validierung starten
 -   **a)** ![](img/validate.png) klicken *oder*
 -   **b)** *v* auf der Experiment-Tastatur
--   Mit *autotrigger* oder *Enter* die Kalibrierung starten
-    -   wenn *autotrigger* nicht startete, dann FOLGT
+-   Mit *auto trigger* oder *Enter* die Kalibrierung starten
+    -   wenn *auto trigger* nicht startete, dann FOLGT
 -   *RIGHT ERROR*: unter 1 und *GOOD* **und** Abweichunge zu den Punkten <1?
-    -   Ja: *accept* klicken  
+    -   Ja: ![](img/accept.png) klicken  
      <img src="img/validation_good.png" width="100">
-    -   Nein: erneut validieren mit *RESTART*, ggf. *DISCARD* und erneut kalibrieren  
+    -   Nein: ![](img/restart.png) klicken, ggf. ![](img/discard.png) und erneut ![](img/calibrate.png) klicken  
     <img src="img/validation_bad.png" width="100">
 
 #### Trials starten
@@ -212,6 +212,13 @@ Mit 'Escape' Kamerasetup verlassen.
         -   für jeden Block eine *.EDF*-Datei für die Augenbewegungen
     -   *.csv*-Dateinen sollten ähnlich groß sein, und die *.EDF*-Dateien auch
     - Wenn nicht: siehe [hier](#manuellerdatentransfer)
+-   Falls letzter Proband: 
+    -   *Shutdown Host* am Eyetracker-PC
+    -   Experiment-PC herunterfahren
+    -   Stromleisten ausschalten
+    -   Lüftung ausschalten
+    -   Fenster schließen
+    -   Labor abschließen
     
 ## Probleme und deren Bewältigung
 
