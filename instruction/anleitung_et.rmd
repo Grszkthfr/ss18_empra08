@@ -39,7 +39,7 @@ letzte Aktualisierung: `r format(Sys.time())`
 #### **b)** über die Kommandozeile
 -   Zum Ordner "C:\\Users\\Public\\Documents\\Projects\\jonas\\mGCPT-III-et\\experiment\" mit dem Experiment navigieren
 -   Rechtsklick im Ordner, in dem die Datei "mGCP-III-et.py" liegt, und "Git Bash here" anklicken  
-<img src="img/01_fileopen-bash_a.png">  
+<img src="img/01_fileopen-bash.png">  
     -   Öffnet ein Terminal am angegebenen Pfad
 -   Befehl "psypy mGCP-III-et.py" eingeben  
 <img src="img/02_runbash.png">  
