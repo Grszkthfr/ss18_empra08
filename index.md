@@ -9,25 +9,25 @@ Die aktuelle Modulbeschreibung findet ihr [hier](https://www2.uni-wuerzburg.de/m
 ### Sitzungen
 Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der Marcusstraße 9-11, statt.
 
-|Termine           |Thema                                                        |
-|------------------|-------------------------------------------------------------|
-| **1.** 09.04.18  |Kennenlernen, [Folien](/ss18_empra08/slides/sitzung01.html)|
-| **2.** 16.04.18  |7 Todsünden psychologischer Forschung, [Folien](/ss18_empra08/slides/sitzung02.html)|
-| **3.** 23.04.18  || 	
-| **4.** 30.04.18  |Entscheidung, [Folien](/ss18_empra08/slides/sitzung04.html)|
-| **5.** 07.05.18  |Hypothesen, [Folien](/ss18_empra08/slides/sitzung05.html)|
-| **6.** 14.05.18  |*Sitzung entfällt* Pilotierung und Experimentalunterlagen|
-| ~~21.05.18~~     |*Sitzung entfällt*: Pfingsten|
-| **7.** 28.05.18  |*kurze Sitzung oder Programmieren?!*|
-| **8.** 04.06.18  |*Erhebungsende, Auswertung*|
-| **9.** 11.06.18  |*Auswertung*|
-|**10.** 18.06.18  |*Auswertung/Poster (Texte)*|
-|**11.** 02.07.18  |*Poster (Texte/Design)*|
-|**12.** 25.07.18  |*Poster (Design)*|
-|**13.** 09.07.18  |	Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
+|Termine                |Thema                                                        |
+|-----------------------|-------------------------------------------------------------|
+| **1.** 09.04.18       |Kennenlernen, [Folien](/ss18_empra08/slides/sitzung01.html)|
+| **2.** 16.04.18       |7 Todsünden psychologischer Forschung, [Folien](/ss18_empra08/slides/sitzung02.html)|
+| **3.** 23.04.18       || 	
+| **4.** 30.04.18       |Entscheidung, [Folien](/ss18_empra08/slides/sitzung04.html)|
+| **5.** 07.05.18       |Hypothesen, [Folien](/ss18_empra08/slides/sitzung05.html)|
+| **6.** 14.05.18       |*Sitzung entfällt* Pilotierung und Experimentalunterlagen|
+| ~~21.05.18~~          |*Sitzung entfällt*: Pfingsten|
+| **7.** 28.05.18       |*kurze Sitzung oder Programmieren?!*|
+| **8.** 04.06.18       |*Erhebungsende, Auswertung*|
+| **9.** 11.06.18       |*Auswertung*|
+|**10.** 18.06.18       |*Auswertung/Poster (Texte)*|
+|**11.** 02.07.18       |*Poster (Texte/Design)*|
+|**12.** 25.07.18       |*Poster (Design)*|
+|**13.** 09.07.18       |	Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
 
 ## Experiment
--   [Laborplan](http://www.psychologie.uni-wuerzburg.de/psy1/laborbelegung_klinische/web/week.php?year=2018&month=5&day=25&area=3&room=45)
+-   [Laborplan](http://www.psychologie.uni-wuerzburg.de/psy1/laborbelegung_klinische/web/week.php?year=2018&month=5&day=25&area=3&room=45), Passwort und Login sind bekannt
 
 ### Experimentalunterlagen
 Alle benötigten Unterlagen (außer den offiziellen Fragebögen), bitte durchgehen und selbstständig aktualisieren und/oder anpassen:
@@ -40,4 +40,4 @@ Alle benötigten Unterlagen (außer den offiziellen Fragebögen), bitte durchgeh
 
 
 ### Eyetracking Anleitung
-[Hier](/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung, bitte durchgehen und Notizen zu unklaren Passagen machen.
+[Hier](/material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung, bitte durchgehen und Notizen zu unklaren Passagen machen.
