@@ -22,8 +22,8 @@ letzte Aktualisierung: `r format(Sys.time())`
 
 
 ### PCs hochfahren
--   auf dem linken PC läuft der Eyetracker, daher im folgenden *Eyetracker-PC* und die Aufzeichnung der Eyetracking-Daten
--   auf dem rechten PC läuft das Experiment (Präsentation der Stimuli), daher im folgenden *Experiment-PC* und die Aufzeichnung der Reaktionszeiten  
+-   auf dem linken PC (dem *Eyetracker-PC*) läuft der Eyetracker und die Aufzeichnung der Eyetracking-Daten 
+-   auf dem rechten PC (dem *Experiment-PC*) läuft das Experiment (Präsentation der Stimuli) und die Aufzeichnung der Reaktionszeiten  
     -   Benutzername: Stimulation
     -   Passwort: *bekannt*
 
@@ -39,6 +39,8 @@ letzte Aktualisierung: `r format(Sys.time())`
 
 #### **b)** über die Kommandozeile
 -   Zum Ordner "C:\\Users\\Public\\Documents\\Projects\\jonas\\mGCPT-III-et\\experiment\" mit dem Experiment navigieren
+    -   Shortcut auf dem Desktop  
+<img src="img/projects.png">
 -   Rechtsklick im Ordner, in dem die Datei "mGCP-III-et.py" liegt, und "Git Bash here" anklicken  
 <img src="img/01_fileopen-bash.png">  
     -   Öffnet ein Terminal am angegebenen Pfad
@@ -132,7 +134,7 @@ letzte Aktualisierung: `r format(Sys.time())`
 ## Während des Experiments
 
 ### Kalibrierung & Validierung {#kalibrierung}
--   Türen sind geschlossen  
+-   Türen sind geschlossen
 ```
 ##############################################################################
 ### Eyelink Kamerasetup Anleitung ############################################
@@ -234,6 +236,9 @@ FOLGT
 ### Experiment neustarten {#experimentneustart}
 Das Experiment kann jederzeit an jedem beliebigen Block neugestartet werden. Dazu trägt man im ersten Dialogfenster unter *block* den Block ein, andem das Experiment wieder starten soll (siehe [Probandennummer eintragen](#probandennummer)).  
 Bei einem Absturz oder einer Unterbrechung **immer mit dem nächsten Block beginnen**.
+
+### Experiment reagiert nicht auf Tastendrücke
+Wenn bei Tastendruck keine Aktion beim Experiment erfolgt, liegt das höchstwahrscheinlich daran, dass der Fokus nicht auf dem Experiment liegt. Um den Fokus auf das Experiment zu legen, genügt ein Klick in der Taskleiste auf <img src="img/18_fokus.png">, schon kann mit dem Experiment fortgefahren werden.
 
 ### Experimennt abbrechen
 
