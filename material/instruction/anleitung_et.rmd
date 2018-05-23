@@ -3,9 +3,9 @@ title: "Ablaufplan für die Eyetracking-Studie *Multiple Gaze Cues*"
 author: "Jonas Großekathöfer"
 output:
   html_document:
-    #toc: yes
-    #toc_float: yes
-    #toc_depth: 4
+    toc: yes
+    toc_float: yes
+    toc_depth: 4
 ---
 
 letzte Aktualisierung: `r format(Sys.time())`
@@ -108,7 +108,7 @@ letzte Aktualisierung: `r format(Sys.time())`
     <img src="img/09_precalib.png" width="750">
 
 ### Eyetracker einstellen
--   Sobald die Kalibrierungsinstruktion erscheint kann mit der Einstellung des Eyetrackers gestartet werden
+-   Sobald die Kalibrierungsinstruktion erscheint (siehe [Kalibrierung](#kalibrierung) kann mit der Einstellung des Eyetrackers gestartet werden
 -   Zuerst das Kamerabild auf den Bildschirm in der Kabine übertragen mit
     -   **a)** über den Button ![](img/image_display.png) auf dem Eyetracker-PC
     -   **b)** *Enter* auf der Experiment-Tastatur
