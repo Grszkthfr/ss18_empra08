@@ -19,7 +19,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | **5.** 07.05.18       |Hypothesen, [Folien](/ss18_empra08/slides/sitzung05.html)|
 | **6.** 14.05.18       |*Sitzung entfällt* Pilotierung und Experimentalunterlagen|
 | ~~21.05.18~~          |*Sitzung entfällt*: Pfingsten|
-| **7.** 28.05.18       |Erhebungsstatus, Programmieren ( [bitte vorbereiten](#psychopy)) und Co., [Folien](/ss18_empra08/slides/sitzung07.html)|
+| **7.** 28.05.18       |Erhebungsstatus, Programmieren (zur Vorbereitung siehe [hier](#psychopy)) und Co., [Folien](/ss18_empra08/slides/sitzung07.html)|
 | **8.** 04.06.18       |*Erhebungsende?, Auswertung*|
 | **9.** 11.06.18       |*Auswertung*|
 |**10.** 18.06.18       |*Auswertung/Poster (Texte)*|
@@ -41,7 +41,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 ### Eyetracking Anleitung
 [Hier](/material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung.
 
-## <img src="http://www.psychopy.org/_static/psychopyDocBanner2.gif"> {#psychopy}
+## <img src="http://www.psychopy.org/_static/psychopyDocBanner2.gif" width="250"> {#psychopy}
 Zur Vorbereitung ladet euch den entsprechenden Installer (je nach Betriebssystem, siehe unten) **unbedingt vor** der Sitzung runter, da die Server extrem langsam sind! Das Programm kann direkt oder am Anfang der Sitzung installiert werden.
 -   Die Homepage von PsychoPy ist [hier](http://psychopy.org/) 
     -   mit einer Übersicht was PsychoPy ist [hier](http://psychopy.org/about/overview.html)
