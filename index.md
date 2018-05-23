@@ -19,7 +19,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | **5.** 07.05.18       |Hypothesen, [Folien](/ss18_empra08/slides/sitzung05.html)|
 | **6.** 14.05.18       |*Sitzung entfällt* Pilotierung und Experimentalunterlagen|
 | ~~21.05.18~~          |*Sitzung entfällt*: Pfingsten|
-| **7.** 28.05.18       |Erhebungsstatus, Programmieren und Co., [Folien](/ss18_empra08/slides/sitzung07.html)|
+| **7.** 28.05.18       |Erhebungsstatus, Programmieren (siehe [PsychoPy](#psychopy)) und Co., [Folien](/ss18_empra08/slides/sitzung07.html)|
 | **8.** 04.06.18       |*Erhebungsende?, Auswertung*|
 | **9.** 11.06.18       |*Auswertung*|
 |**10.** 18.06.18       |*Auswertung/Poster (Texte)*|
@@ -37,4 +37,14 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 -   Laborschlüssel-Rückgabe bis zum 19.06.2018 bei [Fr. Hörning, R. 108](http://www.i1.psychologie.uni-wuerzburg.de/klin/personen/hoerning-barbara/)
 
 ### Eyetracking Anleitung
-[Hier](/material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung, bitte durchgehen und Notizen zu unklaren Passagen machen.
+[Hier](/material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung.
+
+## PsychoPy {#psychopy}
+Zur Vorbereitung ladet euch den entsprechenden Installer (je nach Betriebssystem, siehe unten) **unbedingt vor** der Sitzung runter, da die Server extrem langsam sind! Das Programm kann direkt oder am Anfang der Sitzung installiert werden.
+-   Die Homepage von PsychoPy ist [hier](http://psychopy.org/) 
+    -   mit einer Übersicht [hier](http://psychopy.org/about/overview.html)
+    -   und guter Dokumentation [hier](http://psychopy.org/api/api.html#api)
+-   Die aktuellen PsychoPy Release sind [hier](https://github.com/psychopy/psychopy/releases)
+    -   Der Direktlink für MacOS ist [hier](https://github.com/psychopy/psychopy/releases/download/1.90.2/StandalonePsychoPy2_PY3-1.90.2-MacOS.dmg)
+    -   Der Direktlink für Windwos ist [hier](https://github.com/psychopy/psychopy/releases/download/1.90.2/StandalonePsychoPy2-1.90.2-win32.exe)
+        -   Achtung: Downloads dauern extrem lange, daher Datei im vor Feld herunterladen.
