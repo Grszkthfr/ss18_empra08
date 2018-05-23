@@ -41,7 +41,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 ### Eyetracking Anleitung
 [Hier](/material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung.
 
-## PsychoPy ![](/ss18_empra08/material/instruction/img/psypyicon.png) {#psychopy}
+## <img src="http://www.psychopy.org/_static/psychopyDocBanner2.gif"> {#psychopy}
 Zur Vorbereitung ladet euch den entsprechenden Installer (je nach Betriebssystem, siehe unten) **unbedingt vor** der Sitzung runter, da die Server extrem langsam sind! Das Programm kann direkt oder am Anfang der Sitzung installiert werden.
 -   Die Homepage von PsychoPy ist [hier](http://psychopy.org/) 
     -   mit einer Übersicht was PsychoPy ist [hier](http://psychopy.org/about/overview.html)
