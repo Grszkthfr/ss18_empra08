@@ -238,9 +238,10 @@ Das Experiment kann jederzeit an jedem beliebigen Block neugestartet werden. Daz
 Bei einem Absturz oder einer Unterbrechung **immer mit dem nächsten Block beginnen**.
 
 ### Experiment reagiert nicht auf Tastendrücke
-Wenn bei Tastendruck keine Aktion beim Experiment erfolgt, liegt das höchstwahrscheinlich daran, dass der Fokus nicht auf dem Experiment liegt. Um den Fokus auf das Experiment zu legen, genügt ein Klick in der Taskleiste auf <img src="img/18_fokus.png">, schon kann mit dem Experiment fortgefahren werden.
+Wenn bei Tastendruck keine Aktion beim Experiment erfolgt, liegt das höchstwahrscheinlich daran, dass der Fokus nicht auf dem Experiment liegt. Um den Fokus auf das Experiment zu legen, genügt ein Klick in der Taskleiste auf <img src="img/18_fokus.png">, schon kann mit dem Experiment fortgefahren werden.  
+Wenn das nicht hilft muss das Experiment  regulär [neugestartet](#experimentabbruch) werden, und wenn das nicht funktioniert muss das Fenster manuell geschlossen werden mit *Rechtsklick* auf <img src="img/18_fokus.png"> und dann Fenster schließen auswählen. 
 
-### Experimennt abbrechen
+### Experimennt abbrechen {#experimentabbruch}
 
 Das Experiment kann jederzeit mit der Taste *Q* abgebrochen werden. Alle Daten bis zum Abbruch bleiben erhalten (siehe [Datenverlust](#datenverlust)).
 

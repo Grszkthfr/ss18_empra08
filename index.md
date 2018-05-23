@@ -30,5 +30,8 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 -   [Laborplan](http://www.psychologie.uni-wuerzburg.de/psy1/laborbelegung_klinische/web/week.php?year=2018&month=5&day=25&area=3&room=45)
     -   Passwort und Login sind bekannt
 
+-   [zur Studie](https://psywue.sona-systems.com/exp_info.aspx?experiment_id=1067)
+    -   Passwort und Login sind bekannt
+
 ### Eyetracking Anleitung
 [Hier](/material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung, bitte durchgehen und Notizen zu unklaren Passagen machen.
