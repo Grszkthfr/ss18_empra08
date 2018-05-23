@@ -41,11 +41,11 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 ### Eyetracking Anleitung
 [Hier](/material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung.
 
-## PsychoPy {#psychopy}
+## PsychoPy ![](/ss18_empra08/material/instruction/img/psypyicon.png) {#psychopy}
 Zur Vorbereitung ladet euch den entsprechenden Installer (je nach Betriebssystem, siehe unten) **unbedingt vor** der Sitzung runter, da die Server extrem langsam sind! Das Programm kann direkt oder am Anfang der Sitzung installiert werden.
 -   Die Homepage von PsychoPy ist [hier](http://psychopy.org/) 
-    -   mit einer Übersicht [hier](http://psychopy.org/about/overview.html)
-    -   und guter Dokumentation [hier](http://psychopy.org/api/api.html#api)
+    -   mit einer Übersicht was PsychoPy ist [hier](http://psychopy.org/about/overview.html)
+    -   und guter Dokumentation zu den Funktionen [hier](http://psychopy.org/api/api.html#api)
 -   Die aktuellen PsychoPy Release sind [hier](https://github.com/psychopy/psychopy/releases)
     -   Der Direktlink für MacOS ist [hier](https://github.com/psychopy/psychopy/releases/download/1.90.2/StandalonePsychoPy2_PY3-1.90.2-MacOS.dmg)
     -   Der Direktlink für Windows ist [hier](https://github.com/psychopy/psychopy/releases/download/1.90.2/StandalonePsychoPy2-1.90.2-win32.exe)
