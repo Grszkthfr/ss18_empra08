@@ -3,9 +3,9 @@ title: "Ablaufplan für die Eyetracking-Studie *Multiple Gaze Cues*"
 author: "Jonas Großekathöfer"
 output:
   html_document:
-    toc: yes
-    toc_float: yes
-    toc_depth: 4
+    #toc: yes
+    #toc_float: yes
+    #toc_depth: 4
 ---
 
 letzte Aktualisierung: `r format(Sys.time())`

@@ -2,7 +2,8 @@
 
 Hier solltet ihr alle Informationen finden, die wir im Laufe des Semesters benötigen.
 
-Erreichen könnt ihr mich am besten per Mail: [jonas.grossekathoefer@uni-wuerzburg.de](mailto:jonas.grossekathoefer@uni-wuerzburg.de)
+Erreichen könnt ihr mich am besten per Mail: [jonas.grossekathoefer@uni-wuerzburg.de](mailto:jonas.grossekathoefer@uni-wuerzburg.de).  
+Aus dem Labor erreicht ihr mich unter der Durchwahl 84504.
 
 Die aktuelle Modulbeschreibung findet ihr [hier](https://www2.uni-wuerzburg.de/mhb/MB-de-06-PSY-EFM-152-m01.pdf).
 
@@ -18,8 +19,8 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | **5.** 07.05.18       |Hypothesen, [Folien](/ss18_empra08/slides/sitzung05.html)|
 | **6.** 14.05.18       |*Sitzung entfällt* Pilotierung und Experimentalunterlagen|
 | ~~21.05.18~~          |*Sitzung entfällt*: Pfingsten|
-| **7.** 28.05.18       |*kurze Sitzung oder Programmieren?!*|
-| **8.** 04.06.18       |*Erhebungsende, Auswertung*|
+| **7.** 28.05.18       |Erhebungsstatus, Programmieren und Co., [Folien](/ss18_empra08/slides/sitzung07.html)|
+| **8.** 04.06.18       |*Erhebungsende?, Auswertung*|
 | **9.** 11.06.18       |*Auswertung*|
 |**10.** 18.06.18       |*Auswertung/Poster (Texte)*|
 |**11.** 02.07.18       |*Poster (Texte/Design)*|
@@ -32,6 +33,8 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 
 -   [zur Studie](https://psywue.sona-systems.com/exp_info.aspx?experiment_id=1067)
     -   Passwort und Login sind bekannt
+    
+-   Laborschlüssel-Rückgabe bis zum 19.06.2018 bei [Fr. Hörning, R. 108](http://www.i1.psychologie.uni-wuerzburg.de/klin/personen/hoerning-barbara/)
 
 ### Eyetracking Anleitung
 [Hier](/material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung, bitte durchgehen und Notizen zu unklaren Passagen machen.
