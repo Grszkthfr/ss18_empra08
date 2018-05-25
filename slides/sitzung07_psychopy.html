@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Einführung in empirische und experimentelle Forschungsmethoden</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Jonas Großekathöfer" />
+    <link href="libs/remark-css/default.css" rel="stylesheet" />
+    <link href="libs/remark-css/default-fonts.css" rel="stylesheet" />
+    <link href="libs/font-awesome/css/fontawesome-all.min.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Einführung in empirische und experimentelle Forschungsmethoden
+## Gruppe 08
+### Jonas Großekathöfer
+### 30.04.2018
+
+---
+
+class: inverse, center, middle
+
+
+
+# Heute
+ --- 
+
+## Erhebung
+## Programmieren mit PsychoPy
+## und Co.
+
+---
+
+## Zeitplan
+
+
+
+&lt;font size="-1"&gt;&lt;table style='width:100%;'&gt;
+ &lt;thead&gt;
+  &lt;tr&gt;
+   &lt;th style="text-align:center;"&gt; Nr. &lt;/th&gt;
+   &lt;th style="text-align:center;"&gt; Termine &lt;/th&gt;
+   &lt;th style="text-align:left;"&gt; Thema &lt;/th&gt;
+  &lt;/tr&gt;
+ &lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:center;"&gt; 1 &lt;/td&gt;
+   &lt;td style="text-align:center;"&gt; 09. April 2018 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Orga, Kennenlernen, ... &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:center;"&gt; 2 &lt;/td&gt;
+   &lt;td style="text-align:center;"&gt; 16. April 2018 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; 7 Todsünden psychologischer Forschung &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:center;"&gt; 3 &lt;/td&gt;
+   &lt;td style="text-align:center;"&gt; 23. April 2018 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:center;"&gt; 4 &lt;/td&gt;
+   &lt;td style="text-align:center;"&gt; 30. April 2018 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Entscheidung &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:center;"&gt; 5 &lt;/td&gt;
+   &lt;td style="text-align:center;"&gt; 07. Mai 2018 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Forschungsfrage, Hypothesen, AV &amp;amp; UV &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:center;"&gt; 6 &lt;/td&gt;
+   &lt;td style="text-align:center;"&gt; 14. Mai 2018 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; kurze Sitzung: Präregistrierung abschließen &amp;amp; Pilotierung (Mi, 16.5., oder Do, 17.5.) &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:center;"&gt;  &lt;/td&gt;
+   &lt;td style="text-align:center;"&gt; 21. Mai 2018 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Sitzung entfällt: Pfingsten, Erhebungsstart &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:center;"&gt; 7 &lt;/td&gt;
+   &lt;td style="text-align:center;"&gt; 28. Mai 2018 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Erhebungsstatus, Programmieren und Co. &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:center;"&gt; 8 &lt;/td&gt;
+   &lt;td style="text-align:center;"&gt; 04. Juni 2018 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Auswertung &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:center;"&gt; 9 &lt;/td&gt;
+   &lt;td style="text-align:center;"&gt; 11. Juni 2018 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Erhebungsende, Auswertung &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:center;"&gt; 10 &lt;/td&gt;
+   &lt;td style="text-align:center;"&gt; 18. Juni 2018 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Auswertung/Poster (Texte) &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:center;"&gt; 11 &lt;/td&gt;
+   &lt;td style="text-align:center;"&gt; 25. Juni 2018 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Poster (Texte/Design) &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:center;"&gt; 12 &lt;/td&gt;
+   &lt;td style="text-align:center;"&gt; 02. Juli 2018 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Poster (Design) &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:center;"&gt; 13 &lt;/td&gt;
+   &lt;td style="text-align:center;"&gt; 09. Juli 2018 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; Prüfung und Posterkongress vsl. am Mittwoch, den 11. Juli 2018 &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/font&gt;
+
+---
+
+class: inverse, center, middle
+
+## Wie läuft die Erhebung?
+
+---
+
+### Was läuft schlecht?
+
+--
+
+-   Anleitung anpassen?
+-   Automatisierte Emails verschicken?
+
+--
+
+### Was läuft gut?
+
+--
+
+-   VP enger takten?
+
+---
+
+class: inverse, center, middle
+
+## Programmieren
+---
+
+class: center, middle
+
+![](http://www.psychopy.org/_static/psychopyDocBanner2.gif)
+
+---
+
+### Python
+
+-   FOSS - **F**ree **O**pen **S**ource **S**oftware
+-   läuft auf **allen** Betriebssystemen
+-   *Mehrzweck*-Programmiersprache
+
+### PsychoPy
+
+-   Bibliothek in Python: Sammlung an relevanten Funktionen für die psychologische Forschung
+-   Eigenständiges Programm basierend auf Python: Mit allen relevanten Funktionen (und deren Abhängigkeiten) für psychologische Forschung
+
+---
+
+### GUI
+
+.pull-left[
+#### Builder
+-   point&amp;click
+-   Tutorilas und Material gibt es [hier](http://www.psychopy.org/resources/resources.html#materials-for-builder)
+
+![](img/5_1_builder.png)
+
+]
+
+.pull-right[
+#### Coder
+-   text-basiert
+-   Tutorials und Material gibt es überall &amp; heute!
+
+![](img/5_2_coder.png)
+]
+
+--
+
+<i class="fas  fa-arrow-right "></i> Schließt den Builder und wählt die Shell im Coder aus.
+
+---
+
+### Shell
+
+-   direkte Interaktion: Befehle werden unmittelbar ausgeführt
+-   Wirklich?
+
+```python
+# Das wollen wir erstmal sehen!
+1 + 1
+5 * 5
+```
+--
+
+-   Mathematische Operatoren scheinen zu funktionieren!
+
+--
+
+### Kommentare
+
+
+```python
+# Was passiert jetzt in der Shell?
+# 1 + 1
+1 + 1 # funktioniert allerdings!
+```
+-   Nichts, denn Zeilen, die mit # **beginnen** werden bei der Ausführung ignoriert
+
+---
+
+### Variablen (und die erste Funktion!)
+
+
+```python
+print("Hello World") # string
+print(207)           # integer number
+print(11.1)          # real number
+print(False)         # boolean False, the opposite of True
+```
+-   Variablen können Namen haben
+
+
+```python
+s = "Hello World!"
+u = 10
+p = 1.1
+i = u + p
+print(s)
+print(i)
+```
+
+--
+
+### Editor
+
+-   Versucht die gleichen Befehle im Editor und schaut im Output-Fenster was passiert. 
+
+---
+
+### Stimuluspräsentation
+
+--
+
+#### Vorbereitung
+
+--
+
+
+```python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# The first line is called the hash bang. It helps operating
+# systems understand what to do with this script.
+# The second line describes the encoding of this file. UTF-8
+# is the only one used nowadays. It supports all alphabeths,
+# even runes and linear B.
+ 
+# Import the PsychoPy libraries that you want to use
+from psychopy import core, visual
+```
+-   In der Dokumentation sind die Funktionen (der Module) [hier](http://psychopy.org/api/visual.html) erklärt
+
+--
+    -   für *visual* findet man beispielsweise die beiden folgeden Funktionen [*Window*](http://psychopy.org/api/visual/window.html#psychopy.visual.Window) und [*TextStim*](http://psychopy.org/api/visual/imagestim.html#psychopy.visual.ImageStim)
+
+
+```python
+# Create a window
+win = visual.Window([400,300], monitor="testMonitor")
+ 
+# Create a stimulus for a certain window
+message = visual.TextStim(win, text="Hello World!")
+```
+
+---
+
+### Stimuluspräsentation
+#### Kontrolle
+
+--
+
+
+```python
+# Draw the stimulus to the window.
+message.draw()
+ 
+# Flip backside of the window.
+win.flip()
+ 
+# Pause 5 s, so you get a chance to see it!
+core.wait(5.0)
+```
+
+---
+
+### Stimuluspräsentation
+#### Aufräumen
+
+--
+
+
+```python
+# Close the window
+win.close()
+ 
+# Close PsychoPy
+core.quit()
+```
+
+---
+### Stimuluspräsentation
+
+
+```python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+from psychopy import core, visual
+ 
+win = visual.Window([400,300], monitor="testMonitor")
+ 
+message = visual.TextStim(win, text="Hello World!")
+ 
+message.draw()
+ 
+win.flip()
+ 
+core.wait(5.0)
+ 
+win.close()
+ 
+core.quit()
+```
+
+???
+
+-   Dokumentation benutzen um Größe, Farbe etc. von Text zu verändern?
+-   Dokumentation benutzen um Bild anzuzeigen?
+-   Zwei verschiedene Texte nacheinander?
+
+---
+
+### Input
+
+
+```python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# Note: import the event module
+from psychopy import core, visual, event
+  
+## Setup Section
+win = visual.Window([400,300], monitor="testMonitor")
+textString = "Press any key to continue\n"
+message = visual.TextStim(win, text=textString)
+ 
+## Experiment Section
+message.draw()
+win.flip()
+c = event.waitKeys() # read a character
+message = visual.TextStim(win, text=textString + c[0])
+message.draw()
+win.flip()
+event.waitKeys()
+ 
+## Closing Section
+win.close()
+core.quit()
+```
+
+---
+
+### Quellen
+-   Online Kurs-Material von der  Radboud University Nijmegen [hier](https://www.socsci.ru.nl/wilberth/psychopy/00intro.html)
+    -   Print-/Singlepage-Version [hier](https://www.socsci.ru.nl/wilberth/nocms/psychopy/print.php)
+-   auf der offiziellen PsychoPy-Homepage: [hier](http://www.psychopy.org/resources/resources.html#materials-for-coder)
+
+---
+class: inverse, center, middle
+
+## und Co.
+
+---
+class: inverse, center, middle
+
+# Vielen Dank für Eure Aufmerksamkeit!
+## Bis nächsten Montag.  
+
+# :-)
+
+
+.footnote[
+
+&lt;font size="-2"&gt;Slides created via the R packages [**xaringan**](https://github.com/yihui/xaringan) and [knitr](http://yihui.name/knitr), and [R Markdown](https://rmarkdown.rstudio.com)&lt;/font size&gt;
+
+]
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function() {
+  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})();</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+  }
+});
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
