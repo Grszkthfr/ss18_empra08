@@ -19,7 +19,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | **5.** 07.05.18       |Hypothesen, [Folien](/ss18_empra08/slides/sitzung05.html)|
 | **6.** 14.05.18       |*Sitzung entfällt* Pilotierung und Experimentalunterlagen|
 | ~~21.05.18~~          |*Sitzung entfällt*: Pfingsten|
-| **7.** 28.05.18       |Erhebungsstatus, Programmieren (zur Vorbereitung siehe [hier](#psychopy)) und Co., [Folien](/ss18_empra08/slides/sitzung07.html)|
+| **7.** 28.05.18       |Erhebungsstatus, Programmieren (zur Vorbereitung siehe [hier](#psychopy)) und Co., [Folien](/ss18_empra08/slides/sitzung07_psychopy.html)|
 | **8.** 04.06.18       |*Erhebungsende?, Auswertung*|
 | **9.** 11.06.18       |*Auswertung*|
 |**10.** 18.06.18       |*Auswertung/Poster (Texte)*|
@@ -34,7 +34,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 -   [Laborplan](http://www.psychologie.uni-wuerzburg.de/psy1/laborbelegung_klinische/web/week.php?year=2018&month=5&day=25&area=3&room=45)
     -   Passwort und Login sind bekannt
 
--   [zur Studie](https://psywue.sona-systems.com/exp_info.aspx?experiment_id=1067)
+-   [Studie](https://psywue.sona-systems.com/exp_info.aspx?experiment_id=1067)
     -   Passwort und Login sind bekannt
     
 -   Laborschlüssel-Rückgabe bis zum 19.06.2018 bei [Fr. Hörning, R. 108](http://www.i1.psychologie.uni-wuerzburg.de/klin/personen/hoerning-barbara/)
