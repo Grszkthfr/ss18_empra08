@@ -91,7 +91,7 @@ class: inverse, center, middle
 
 ### Übertragen der Fragebogendaten
 
--   Datei von Homepage herunterladen und anhand der Fragebögen ausfüllen. (Link folgt)
+-   Datei von Homepage herunterladen und anhand der Fragebögen ausfüllen. [zur Datei](/material/fb-ratings.csv)
 
 ---
 class: inverse, center, middle

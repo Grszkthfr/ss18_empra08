@@ -23,7 +23,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | **6.** 14.05.18       |*Sitzung entfällt* Pilotierung und Experimentalunterlagen|
 | ~~21.05.18~~          |*Sitzung entfällt*: Pfingsten|
 | **7.** 28.05.18       |Erhebungsstatus, Programmieren (zur Vorbereitung siehe [hier](#psychopy)) und Co., [Folien](/ss18_empra08/slides/sitzung07_psychopy.html)|
-| **8.** 04.06.18       |Erhebungsende?, Auswertung (verschoben), wissenschaftliches Poster, [Folien](/ss18_empra08/slides/sitzung08_poster.html|
+| **8.** 04.06.18       |Erhebungsende?, Auswertung (verschoben), wissenschaftliches Poster, [Folien](/ss18_empra08/slides/sitzung08_poster.html)|
 | **9.** 11.06.18       |*Auswertung*|
 |**10.** 18.06.18       |*Auswertung/Poster (Texte)*|
 |**11.** 02.07.18       |*Poster (Texte/Design)*|
@@ -47,6 +47,23 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 ### Eyetracking Anleitung
 [Hier](/material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung.
 
+## Sitzung 08
+
+### Fragebogendaten übertragen
+-   Die ausgefüllten Fragebögen [hier](/material/fb-ratings.csv) eintragen
+    -   *aqk1* - *aqk33*: [AQ-K](https://econtent.hogrefe.com/doi/full/10.1026/1616-3443.36.4.280), **1** - "Ich stimme eindeutig zu" bis **4** - "Ich stimme überhaupt nicht zu" kodieren
+    -   *fze1* & *fze2*: Fragen zum Experiment, "Was schätzen Sie, wie gut war...": **1** - "sehr schlecht" bis **5** - "sehr gut"
+    -   *pic1a* - *pic3v*: Fragen zur Attraktivität und Vertrautheit der Bilder: **1** - "wenig attraktiv/ vertraut" bis **5** "sehr attraktiv/ vertraut"
+    -   *reserach*: "Was vermuten Sie, wurde mit diesem Experiment untersucht", **Text**
+    -   *strategy*: "Habe Sie eine besondere Strategie verwendet, ...", **Text**
+    -   *experience*: "... ähnlichen Experiment teilgenommen?", **0** - "Nein", **1** - "Ja, dieses Semester", **2** - letztes Semester
+    -   *age*: Alter in Jahren
+    -   *study*: Studienfach, **1** - Psychologie, **Text** (wenn nicht Psychologie)
+    -   *semester*: Semester in Zahlen
+    -   *sight*: Fehlsichtigkeit, **0** - Nein, **1** - kurzsichtig, **2** - weitsichtig, **Text** (wenn "andere")
+    -   *correction*: Korrektur der Fehlsichtigkeit, **0** - keine, **1** - Brille, **2** - Kontaktlinsen
+    -   *diopter_r*: Dioptrien rechtes Auge
+    -   *diopter_l*: Dioptrien linkes Auge
 
 ## Sitzung 07
 
