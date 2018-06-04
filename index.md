@@ -53,7 +53,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 -   Die ausgefüllten Fragebögen [hier](/material/fb-ratings.csv) eintragen
     -   *aqk1* - *aqk33*: [AQ-K](https://econtent.hogrefe.com/doi/full/10.1026/1616-3443.36.4.280), **1** - "Ich stimme eindeutig zu" bis **4** - "Ich stimme überhaupt nicht zu" kodieren
     -   *fze1* & *fze2*: Fragen zum Experiment, "Was schätzen Sie, wie gut war...": **1** - "sehr schlecht" bis **5** - "sehr gut"
-    -   *pic1a* - *pic3v*: Fragen zur Attraktivität und Vertrautheit der Bilder: **1** - "wenig attraktiv/ vertraut" bis **5** "sehr attraktiv/ vertraut"
+    -   *pic1a* - *pic3v*: Fragen zur Attraktivität und Vertrautheit der Bilder, **1** - "wenig attraktiv/ vertraut" bis **5** "sehr attraktiv/ vertraut"
     -   *reserach*: "Was vermuten Sie, wurde mit diesem Experiment untersucht", **Text**
     -   *strategy*: "Habe Sie eine besondere Strategie verwendet, ...", **Text**
     -   *experience*: "... ähnlichen Experiment teilgenommen?", **0** - "Nein", **1** - "Ja, dieses Semester", **2** - letztes Semester
@@ -62,8 +62,9 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
     -   *semester*: Semester in Zahlen
     -   *sight*: Fehlsichtigkeit, **0** - Nein, **1** - kurzsichtig, **2** - weitsichtig, **Text** (wenn "andere")
     -   *correction*: Korrektur der Fehlsichtigkeit, **0** - keine, **1** - Brille, **2** - Kontaktlinsen
-    -   *diopter_r*: Dioptrien rechtes Auge
-    -   *diopter_l*: Dioptrien linkes Auge
+    -   *diopter_r*: Dioptrien rechtes Auge, **Wert**
+    -   *diopter_l*: Dioptrien linkes Auge, **Wert**
+    -   *bemerkung*: Bemerkung von VP-Liste, (gekürzter) **Text**
 
 ## Sitzung 07
 
