@@ -7,6 +7,8 @@ Aus dem Labor erreicht ihr mich unter der Durchwahl 84504.
 
 Die aktuelle Modulbeschreibung findet ihr [hier](https://www2.uni-wuerzburg.de/mhb/MB-de-06-PSY-EFM-152-m01.pdf).
 
+<font color="magenta">[Prüfungsanmeldung bei Albrecht Sebald (Gruppe 1) nicht vergessen!](https://www-sbhome1.zv.uni-wuerzburg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=191119&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<font color>
+
 ### Sitzungen
 Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der Marcusstraße 9-11, statt.
 
@@ -20,7 +22,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | **6.** 14.05.18       |*Sitzung entfällt* Pilotierung und Experimentalunterlagen|
 | ~~21.05.18~~          |*Sitzung entfällt*: Pfingsten|
 | **7.** 28.05.18       |Erhebungsstatus, Programmieren (zur Vorbereitung siehe [hier](#psychopy)) und Co., [Folien](/ss18_empra08/slides/sitzung07_psychopy.html)|
-| **8.** 04.06.18       |*Erhebungsende?, Auswertung*|
+| **8.** 04.06.18       |Erhebungsende?, Auswertung (verschoben), wissenschaftliches Poster, [Folien](/ss18_empra08/slides/sitzung08_poster.html|
 | **9.** 11.06.18       |*Auswertung*|
 |**10.** 18.06.18       |*Auswertung/Poster (Texte)*|
 |**11.** 02.07.18       |*Poster (Texte/Design)*|
@@ -28,13 +30,13 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 |**13.** 09.07.18       |	Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
 
 ## Experiment
--   [Webmail](https://webmail.uni-wuerzburg.de/login.php)
+-   [Webmail Uni Würzburg](https://webmail.uni-wuerzburg.de/login.php)
     -   Passwort und Login sind bekannt
 
--   [Laborplan](http://www.psychologie.uni-wuerzburg.de/psy1/laborbelegung_klinische/web/week.php?year=2018&month=5&day=25&area=3&room=45)
+-   [Laborplan LS I](http://www.psychologie.uni-wuerzburg.de/psy1/laborbelegung_klinische/web/week.php?year=2018&month=5&day=25&area=3&room=45)
     -   Passwort und Login sind bekannt
 
--   [Studie](https://psywue.sona-systems.com/exp_info.aspx?experiment_id=1067)
+-   [Studie auf Sona](https://psywue.sona-systems.com/exp_info.aspx?experiment_id=1067)
     -   Passwort und Login sind bekannt
     
 -   Laborschlüssel-Rückgabe bis zum 19.06.2018 bei [Fr. Hörning, R. 108](http://www.i1.psychologie.uni-wuerzburg.de/klin/personen/hoerning-barbara/)
@@ -54,6 +56,6 @@ Das Programm kann direkt oder am Anfang der Sitzung installiert werden.
     -   mit einer Übersicht was PsychoPy ist [hier](http://psychopy.org/about/overview.html)
     -   und guter Dokumentation zu den Funktionen [hier](http://psychopy.org/api/api.html#api)
 -   Die aktuellen PsychoPy Release sind [hier](https://github.com/psychopy/psychopy/releases)
-    -   Der Direktlink für MacOS ist [hier](https://github.com/psychopy/psychopy/releases/download/1.90.2/StandalonePsychoPy2_PY3-1.90.2-MacOS.dmg)
+    -   Der Direktlink für MacOS ist [hier](https://github.com/psychopy/psychopy/releases/download/1.90.2/StandalonePsychoPy2-1.90.2-MacOS.dmg)
     -   Der Direktlink für Windows ist [hier](https://github.com/psychopy/psychopy/releases/download/1.90.2/StandalonePsychoPy2-1.90.2-win32.exe)
         -   Achtung: Downloads dauern extrem lange, daher Datei vor der Sitzung herunterladen!
