@@ -23,7 +23,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | **6.** 14.05.18       |*Sitzung entfällt* Pilotierung und Experimentalunterlagen|
 | ~~21.05.18~~          |*Sitzung entfällt*: Pfingsten|
 | **7.** 28.05.18       |Erhebungsstatus, Programmieren (zur Vorbereitung siehe [hier](#psychopy)) und Co., [Folien](/ss18_empra08/slides/sitzung07_psychopy.html)|
-| **8.** 04.06.18       |Erhebungsende?, Auswertung (verschoben), wissenschaftliches Poster, [Folien](/ss18_empra08/slides/sitzung08_poster.html)|
+| **8.** 04.06.18       |Erhebungsende?, Auswertung (verschoben), wissenschaftliches Poster, [Folien](/ss18_empra08/slides/sitzung08_poster.html), Fragebogen-Daten Anleitung [hier](#fb-ratings)|
 | **9.** 11.06.18       |*Auswertung*|
 |**10.** 18.06.18       |*Auswertung/Poster (Texte)*|
 |**11.** 02.07.18       |*Poster (Texte/Design)*|
@@ -49,7 +49,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 
 ## Sitzung 08
 
-### Fragebogendaten übertragen
+### Fragebogendaten übertragen {#fb-ratings}
 -   Die ausgefüllten Fragebögen [hier](/material/fb-ratings.csv) eintragen
     -   *aqk1* - *aqk33*: [AQ-K](https://econtent.hogrefe.com/doi/full/10.1026/1616-3443.36.4.280), **1** - "Ich stimme eindeutig zu" bis **4** - "Ich stimme überhaupt nicht zu" kodieren
     -   *fze1* & *fze2*: Fragen zum Experiment, "Was schätzen Sie, wie gut war...": **1** - "sehr schlecht" bis **5** - "sehr gut"
