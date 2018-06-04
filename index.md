@@ -7,7 +7,7 @@ Aus dem Labor erreicht ihr mich unter der Durchwahl 84504.
 
 Die aktuelle Modulbeschreibung findet ihr [hier](https://www2.uni-wuerzburg.de/mhb/MB-de-06-PSY-EFM-152-m01.pdf).
 
-[**Prüfungsanmeldung** bei Albrecht Sebald (Gruppe 1) nicht vergessen!](https://www-sbhome1.zv.uni-wuerzburg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=191119&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+[Prüfungsanmeldung](https://www-sbhome1.zv.uni-wuerzburg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=191119&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) bei Albrecht Sebald (Gruppe 1) nicht vergessen!
 
 
 ### Sitzungen
