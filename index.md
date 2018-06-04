@@ -30,6 +30,8 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 |**12.** 25.07.18       |*Poster (Design)*|
 |**13.** 09.07.18       |	Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
 
+---
+
 ## Experiment
 -   [Webmail Uni Würzburg](https://webmail.uni-wuerzburg.de/login.php)
     -   Passwort und Login sind bekannt
@@ -46,6 +48,8 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 
 ### Eyetracking Anleitung
 [Hier](/material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung.
+
+---
 
 ## Sitzung 08
 
