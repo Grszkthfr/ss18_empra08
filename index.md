@@ -53,7 +53,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 
 ## Sitzung 10
 
-### img src="https://www.jamovi.org/assets/header-logo.svg" width="250"> {#jamovi}
+### img src="img/header-logo.png" width="250"> {#jamovi}
 Wenn ihr nächsten Montag mitarbeiten wollt, dann könnt ihr euch dieses Programm [hier](https://www.jamovi.org) herunterladen.
 Die entsprechenden Versionen für euer Betriebssystem findet ihr [hier](https://www.jamovi.org/download.html)
 
