@@ -28,7 +28,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 |**10.** 18.06.18       |*Auswertung/Poster (Texte)*|
 |**11.** 02.07.18       |*Poster (Texte/Design)*|
 |**12.** 25.07.18       |*Poster (Design)*|
-|**13.** 09.07.18       |	Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
+|**13.** 09.07.18       |Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
 
 ---
 
@@ -50,6 +50,12 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 [Hier](/material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung.
 
 ---
+
+## Sitzung 10
+
+### img src="https://www.jamovi.org/assets/header-logo.svg" width="250"> {#jamovi}
+Wenn ihr nächsten Montag mitarbeiten wollt, dann könnt ihr euch dieses Programm [hier](https://www.jamovi.org) herunterladen.
+Die entsprechenden Versionen für euer Betriebssystem findet ihr [hier](https://www.jamovi.org/download.html)
 
 ## Sitzung 08
 
