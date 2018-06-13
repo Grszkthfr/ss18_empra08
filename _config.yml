@@ -1,2 +1,6 @@
-theme: jekyll-theme-minimal
 title: Einführung in empirische und experimentelle Forschungsmethoden
+logo: http://www.presse.uni-wuerzburg.de/fileadmin/uniwue/ci/Logos/Pixelgrafiken/web/uniwue4c.png
+description: Materialien für das Empra, Sommersemester 2018, Gruppe 08, Universität Würzburg
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
