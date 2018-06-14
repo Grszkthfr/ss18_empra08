@@ -2,15 +2,15 @@
 
 Hier solltet ihr alle Informationen finden, die wir im Laufe des Semesters benötigen.
 
-Erreichen könnt ihr mich am besten per Mail: [jonas.grossekathoefer@uni-wuerzburg.de](mailto:jonas.grossekathoefer@uni-wuerzburg.de).  
+Erreichen könnt ihr [mich](http://www.i1.psychologie.uni-wuerzburg.de/ekp/personen/jonas-grossekathoefer/msc-jonas-grossekathoefer/) am besten per Mail: [jonas.grossekathoefer@uni-wuerzburg.de](mailto:jonas.grossekathoefer@uni-wuerzburg.de).  
 Aus dem Labor erreicht ihr mich unter der Durchwahl 84504.
 
 Die aktuelle Modulbeschreibung findet ihr [hier](https://www2.uni-wuerzburg.de/mhb/MB-de-06-PSY-EFM-152-m01.pdf).
 
 [Prüfungsanmeldung](https://www-sbhome1.zv.uni-wuerzburg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=191119&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) bei Albrecht Sebald (Gruppe 1) nicht vergessen!
 
-
 ### Sitzungen
+
 Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der Marcusstraße 9-11, statt.
 
 |Termine                |Thema                                                        |
@@ -33,6 +33,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 ---
 
 ## Experiment
+
 -   [Webmail Uni Würzburg](https://webmail.uni-wuerzburg.de/login.php)
     -   Passwort und Login sind bekannt
 
@@ -41,12 +42,13 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 
 -   [Studie auf Sona](https://psywue.sona-systems.com/exp_info.aspx?experiment_id=1067)
     -   Passwort und Login sind bekannt
-    
+
 -   Laborschlüssel-Rückgabe bis zum 19.06.2018 bei [Fr. Hörning, R. 108](http://www.i1.psychologie.uni-wuerzburg.de/klin/personen/hoerning-barbara/)
 
 -   Bei VP32 Tastenbelegung umdrehen. **Bitte Bescheid geben!**
 
 ### Eyetracking Anleitung
+
 [Hier](/material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung.
 
 ---
@@ -54,12 +56,14 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 ## Sitzung 10
 
 ### <img src="https://www.jamovi.org/assets/header-logo.svg" width="250"> {#jamovi}
+
 Wenn ihr nächsten Montag mitarbeiten wollt, dann könnt ihr euch dieses Programm [hier](https://www.jamovi.org) herunterladen.  
 Die entsprechenden Versionen für euer Betriebssystem findet ihr [hier](https://www.jamovi.org/download.html)
 
 ## Sitzung 08
 
 ### Fragebogendaten übertragen {#fb-ratings}
+
 -   Die ausgefüllten Fragebögen [hier](/material/fb-ratings.csv) eintragen
     -   *aqk1* - *aqk33*: [AQ-K](https://econtent.hogrefe.com/doi/full/10.1026/1616-3443.36.4.280), **1** - "Ich stimme eindeutig zu" bis **4** - "Ich stimme überhaupt nicht zu" kodieren
     -   *fze1* & *fze2*: Fragen zum Experiment, "Was schätzen Sie, wie gut war...": **1** - "sehr schlecht" bis **5** - "sehr gut"
@@ -79,9 +83,11 @@ Die entsprechenden Versionen für euer Betriebssystem findet ihr [hier](https://
 ## Sitzung 07
 
 ### <img src="http://www.psychopy.org/_static/psychopyDocBanner2.gif" width="250"> {#psychopy}
+
 Zur Vorbereitung ladet euch den entsprechenden Installer (je nach Betriebssystem, siehe unten) **unbedingt vor** der Sitzung runter, da die Server extrem langsam sind!  
 Das Programm kann direkt oder am Anfang der Sitzung installiert werden.
--   Die Homepage von PsychoPy ist [hier](http://psychopy.org/) 
+
+-   Die Homepage von PsychoPy ist [hier](http://psychopy.org/)
     -   mit einer Übersicht was PsychoPy ist [hier](http://psychopy.org/about/overview.html)
     -   und guter Dokumentation zu den Funktionen [hier](http://psychopy.org/api/api.html#api)
 -   Die aktuellen PsychoPy Release sind [hier](https://github.com/psychopy/psychopy/releases)
