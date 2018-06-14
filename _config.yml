@@ -1,2 +1,6 @@
-theme: jekyll-theme-minimal
 title: Einführung in empirische und experimentelle Forschungsmethoden
+logo: http://www.presse.uni-wuerzburg.de/fileadmin/uniwue/ci/Logos/Pixelgrafiken/web/unilogo4cohne.png
+description: Sommersemester 2018, Gruppe 08
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
