@@ -1,6 +1,6 @@
 ## Allgemeines
 
-Hier solltet ihr alle Informationen finden, die wir im Laufe des Semesters benötigen.
+Hier solltzet ihr alle Informationen finden, die wir im Laufe des Semesters benötigen.
 
 Erreichen könnt ihr [mich](http://www.i1.psychologie.uni-wuerzburg.de/ekp/personen/jonas-grossekathoefer/msc-jonas-grossekathoefer/) am besten per Mail: [jonas.grossekathoefer@uni-wuerzburg.de](mailto:jonas.grossekathoefer@uni-wuerzburg.de).  
 Aus dem Labor erreicht ihr mich unter der Durchwahl 84504.
@@ -17,7 +17,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 |-----------------------|-------------------------------------------------------------|
 | **1.** 09.04.18       |Kennenlernen, [Folien](/ss18_empra08/slides/sitzung01.html)|
 | **2.** 16.04.18       |7 Todsünden psychologischer Forschung, [Folien](/ss18_empra08/slides/sitzung02.html)|
-| **3.** 23.04.18       || 	
+| **3.** 23.04.18       ||
 | **4.** 30.04.18       |Entscheidung, [Folien](/ss18_empra08/slides/sitzung04.html)|
 | **5.** 07.05.18       |Hypothesen, [Folien](/ss18_empra08/slides/sitzung05.html)|
 | **6.** 14.05.18       |*Sitzung entfällt* Pilotierung und Experimentalunterlagen|
@@ -59,6 +59,10 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 
 Wenn ihr nächsten Montag mitarbeiten wollt, dann könnt ihr euch dieses Programm [hier](https://www.jamovi.org) herunterladen.  
 Die entsprechenden Versionen für euer Betriebssystem findet ihr [hier](https://www.jamovi.org/download.html)
+
+### Bilder für den Methodenteil
+
+Bilder vom Experiment könnt ihr [hier](/material/methoden-pics.zip) runterladen.
 
 ## Sitzung 08
 
