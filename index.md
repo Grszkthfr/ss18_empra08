@@ -25,7 +25,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | **7.** 28.05.18       |Erhebungsstatus, Programmieren (zur Vorbereitung siehe [hier](#psychopy)) und Co., [Folien](/ss18_empra08/slides/sitzung07_psychopy.html)|
 | **8.** 04.06.18       |Erhebungsende?, Auswertung (verschoben), wissenschaftliches Poster, [Folien](/ss18_empra08/slides/sitzung08_poster.html), Fragebogen-Daten Anleitung [hier](#fb-ratings)|
 | **9.** 11.06.18       |*Auswertung*|
-|**10.** 18.06.18       |*Auswertung/Poster (Texte)*|
+|**10.** 18.06.18       |*Auswertung/Poster (Texte)*, [Folien](/ss18_empra08/slides/sitzung10_auswertung.html)|
 |**11.** 02.07.18       |*Poster (Texte/Design)*|
 |**12.** 25.07.18       |*Poster (Design)*|
 |**13.** 09.07.18       |Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
@@ -45,11 +45,15 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 
 -   Laborschlüssel-Rückgabe bis zum 19.06.2018 bei [Fr. Hörning, R. 108](http://www.i1.psychologie.uni-wuerzburg.de/klin/personen/hoerning-barbara/)
 
--   Bei VP32 Tastenbelegung umdrehen. **Bitte Bescheid geben!**
+-   ~~Bei VP32 Tastenbelegung umdrehen. **Bitte Bescheid geben!**~~
 
 ### Eyetracking Anleitung
 
 [Hier](/material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung.
+
+## Ergebnis
+
+-   [Hier](material/results/df_jamovi.csv) können die **vorläufigen** Daten heruntergeladen werden um sie mit [Jamovi](#jamovi) auszuwerten.
 
 ---
 
@@ -57,8 +61,9 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 
 ### <img src="https://www.jamovi.org/assets/header-logo.svg" width="250"> {#jamovi}
 
-Wenn ihr nächsten Montag mitarbeiten wollt, dann könnt ihr euch dieses Programm [hier](https://www.jamovi.org) herunterladen.  
-Die entsprechenden Versionen für euer Betriebssystem findet ihr [hier](https://www.jamovi.org/download.html)
+Wenn ihr mitarbeiten wollt, dann könnt ihr euch dieses Programm [hier](https://www.jamovi.org) herunterladen.  
+Die entsprechenden Versionen für euer Betriebssystem findet ihr [hier](https://www.jamovi.org/download.html).  
+Eine (kurze) Anleitung zum Programm findet ihr [hier](https://www.jamovi.org/user-manual.html).
 
 ### Bilder für den Methodenteil
 
