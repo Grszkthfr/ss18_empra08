@@ -22,15 +22,25 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | **5.** 07.05.18       |Hypothesen, [Folien](/ss18_empra08/slides/sitzung05.html)|
 | **6.** 14.05.18       |*Sitzung entfällt* Pilotierung und Experimentalunterlagen|
 | ~~21.05.18~~          |*Sitzung entfällt*: Pfingsten|
-| **7.** 28.05.18       |Erhebungsstatus, Programmieren (zur Vorbereitung siehe [hier](#psychopy)) und Co., [Folien](/ss18_empra08/slides/sitzung07_psychopy.html)|
-| **8.** 04.06.18       |Erhebungsende?, Auswertung (verschoben), wissenschaftliches Poster, [Folien](/ss18_empra08/slides/sitzung08_poster.html), Fragebogen-Daten Anleitung [hier](#fb-ratings)|
-| **9.** 11.06.18       |*Auswertung*|
-|**10.** 18.06.18       |*Auswertung/Poster (Texte)*, [Folien](/ss18_empra08/slides/sitzung10_auswertung.html)|
+| [**7.**](#07) 28.05.18       |Erhebungsstatus, Programmieren (zur Vorbereitung siehe [hier](#psychopy)) und Co., [Folien](/ss18_empra08/slides/sitzung07_psychopy.html)|
+| [**8.**](#08) 04.06.18       |Erhebungsende?, Auswertung (verschoben), wissenschaftliches Poster, [Folien](/ss18_empra08/slides/sitzung08_poster.html), Fragebogen-Daten Anleitung [hier](#fb-ratings)|
+| **9.** 11.06.18       |Auswertung|
+|[**10.**](#10) 18.06.18       |Auswertung/Poster (Texte), [Folien](/ss18_empra08/slides/sitzung10_auswertung.html)|
 |**11.** 02.07.18       |*Poster (Texte/Design)*|
 |**12.** 25.07.18       |*Poster (Design)*|
 |**13.** 09.07.18       |Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
 
 ---
+
+## Material für's Poster
+
+### Bilder für den Methodenteil
+
+Bilder vom Experiment könnt ihr [hier](/material/methoden-pics.zip) runterladen.
+
+### Daten für die Ergebnisse
+
+-   [Hier](material/results/df_jamovi.csv) können die Daten heruntergeladen werden um sie mit [Jamovi](#jamovi) auszuwerten. Denkt daran, in Jamovi den Variablen die richtigen Skalenniveaus zuzuordnen.
 
 ## Experiment
 
@@ -51,13 +61,9 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 
 [Hier](/material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung.
 
-## Ergebnis
-
--   [Hier](material/results/df_jamovi.csv) können die **vorläufigen** Daten heruntergeladen werden um sie mit [Jamovi](#jamovi) auszuwerten.
-
 ---
 
-## Sitzung 10
+## Sitzung 10 {#10}
 
 ### <img src="https://www.jamovi.org/assets/header-logo.svg" width="250"> {#jamovi}
 
@@ -65,11 +71,7 @@ Wenn ihr mitarbeiten wollt, dann könnt ihr euch dieses Programm [hier](https://
 Die entsprechenden Versionen für euer Betriebssystem findet ihr [hier](https://www.jamovi.org/download.html).  
 Eine (kurze) Anleitung zum Programm findet ihr [hier](https://www.jamovi.org/user-manual.html).
 
-### Bilder für den Methodenteil
-
-Bilder vom Experiment könnt ihr [hier](/material/methoden-pics.zip) runterladen.
-
-## Sitzung 08
+## Sitzung 08 {#08}
 
 ### Fragebogendaten übertragen {#fb-ratings}
 
@@ -89,7 +91,7 @@ Bilder vom Experiment könnt ihr [hier](/material/methoden-pics.zip) runterladen
     -   *diopter_l*: Dioptrien linkes Auge, **Wert**
     -   *bemerkung*: Bemerkung von VP-Liste, (gekürzter) **Text**
 
-## Sitzung 07
+## Sitzung 07 {#07}
 
 ### <img src="http://www.psychopy.org/_static/psychopyDocBanner2.gif" width="250"> {#psychopy}
 
