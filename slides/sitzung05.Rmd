@@ -2,7 +2,7 @@
 title: "Einführung in empirische und experimentelle Forschungsmethoden"
 subtitle: "Gruppe 08"
 author: "Jonas Großekathöfer"
-date: "30.04.2018"
+date: "07.05.18"
 output:
   xaringan::moon_reader:
     lib_dir: libs
