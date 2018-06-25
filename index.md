@@ -13,22 +13,22 @@ Die aktuelle Modulbeschreibung findet ihr [hier](https://www2.uni-wuerzburg.de/m
 
 Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der Marcusstraße 9-11, statt.
 
-|Termine                |Thema                                                        |
-|-----------------------|-------------------------------------------------------------|
-| **1.** 09.04.18       |Kennenlernen, [Folien](/ss18_empra08/slides/sitzung01.html)|
-| **2.** 16.04.18       |7 Todsünden psychologischer Forschung, [Folien](/ss18_empra08/slides/sitzung02.html)|
-| **3.** 23.04.18       ||
-| **4.** 30.04.18       |Entscheidung, [Folien](/ss18_empra08/slides/sitzung04.html)|
-| **5.** 07.05.18       |Hypothesen, [Folien](/ss18_empra08/slides/sitzung05.html)|
-| **6.** 14.05.18       |*Sitzung entfällt* Pilotierung und Experimentalunterlagen|
-| ~~21.05.18~~          |*Sitzung entfällt*: Pfingsten|
-| [**7.**](#session07) 28.05.18       |Erhebungsstatus, Programmieren (zur Vorbereitung siehe [hier](#psychopy)) und Co., [Folien](/ss18_empra08/slides/sitzung07_psychopy.html)|
-| [**8.**](#session08) 04.06.18       |Erhebungsende?, Auswertung (verschoben), wissenschaftliches Poster, [Folien](/ss18_empra08/slides/sitzung08_poster.html), Fragebogen-Daten Anleitung [hier](#fb-ratings)|
-| **9.** 11.06.18       |Auswertung|
-|[**10.**](#session10) 18.06.18       |Auswertung/Poster (Texte), [Folien](/ss18_empra08/slides/sitzung10_auswertung.html)|
-|**11.** 02.07.18       |*Poster (Texte/Design)*|
-|**12.** 25.07.18       |*Poster (Design)*|
-|**13.** 09.07.18       |Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
+|Termine                   |Thema                                                        |
+|--------------------------|-------------------------------------------------------------|
+| **1.** 09.04.18          |Kennenlernen, [Folien](/ss18_empra08/slides/sitzung01.html)|
+| **2.** 16.04.18          |7 Todsünden psychologischer Forschung, [Folien](/ss18_empra08/slides/sitzung02.html)|
+| **3.** 23.04.18          ||
+| **4.** 30.04.18          |Entscheidung, [Folien](/ss18_empra08/slides/sitzung04.html)|
+| **5.** 07.05.18          |Hypothesen, [Folien](/ss18_empra08/slides/sitzung05.html)|
+| **6.** 14.05.18          |*Sitzung entfällt* Pilotierung und Experimentalunterlagen|
+| ~~21.05.18~~             |*Sitzung entfällt*: Pfingsten|
+| [**7.**](#session07) 28.05.18 |Erhebungsstatus, Programmieren (zur Vorbereitung siehe [hier](#psychopy)) und Co., [Folien](/ss18_empra08/slides/sitzung07_psychopy.html)|
+| [**8.**](#session08) 04.06.18 |Erhebungsende?, Auswertung (verschoben), wissenschaftliches Poster, [Folien](/ss18_empra08/slides/sitzung08_poster.html), Fragebogen-Daten Anleitung [hier](#fb-ratings)|
+| **9.** 11.06.18          |Auswertung|
+|[**10.**](#session10) 18.06.18 |Auswertung/Poster (Texte), [Folien](/ss18_empra08/slides/sitzung10_auswertung.html)|
+|**11.** 25.06.18          |*Poster (Texte/Design)*|
+|**12.** 02.07.18          |*Poster (Design)*|
+|**13.** 09.07.18          |Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
 
 ---
 
