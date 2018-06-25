@@ -44,7 +44,7 @@ Montag, den 09.07.2018, Raum: R. 213
 |4 | 15:10h - 15:25h | ??? |
 |5 | 15:30h - 15:45h | ??? |
 
-Sucht euch bitte drei zusammenhängede Termine aus.
+Bitte drei zusammenhängede Termine auswählen bis zum nächsten Treffen, Mo., 02.07.18, mitteilen
 
 ## Material für's Poster {#poster}
 
