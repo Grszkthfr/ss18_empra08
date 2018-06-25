@@ -26,11 +26,25 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | [**8.**](#session08) 04.06.18 |Erhebungsende?, Auswertung (verschoben), wissenschaftliches Poster, [Folien](/ss18_empra08/slides/sitzung08_poster.html), Fragebogen-Daten Anleitung [hier](#fb-ratings)|
 | **9.** 11.06.18          |Auswertung|
 |[**10.**](#session10) 18.06.18 |Auswertung/Poster (Texte), [Folien](/ss18_empra08/slides/sitzung10_auswertung.html)|
-|**11.** 25.06.18          |*Poster (Texte/Design)*|
+|**11.** 25.06.18          |Poster (Texte/Design), [Folien](ss18_empra08/slides/sitzung11_diskussion.html#1)|
 |**12.** 02.07.18          |*Poster (Design)*|
 |**13.** 09.07.18          |Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
 
 ---
+
+## Prüfung
+
+Montag, den 09.07.2018, Raum: R. 213
+
+|Slot|Uhrzeit    | Student |
+|--|-------------|---------|
+|1 | 14:15h - 14:30h | ??? |
+|2 | 14:35h - 14:50h | ??? |
+|3 | 14:55h - 15:10h | ??? |
+|4 | 15:10h - 15:25h | ??? |
+|5 | 15:30h - 15:45h | ??? |
+
+Sucht euch bitte drei zusammenhängede Termine aus.
 
 ## Material für's Poster {#poster}
 
@@ -44,6 +58,10 @@ Bilder vom Experiment könnt ihr [hier](/material/methoden-pics.zip) runterladen
     -   Denkt daran, in Jamovi den Variablen die richtigen Skalenniveaus zuzuordnen.
 -   [Hier](https://grszkthfr.github.io/ss18_empra08/slides/sitzung10_auswertung.html#12) ist aufgelistet, wie sich die Variablennamen zusammensetzen
 
+### Ergebnisse
+
+-   [Hier](material/results/results_jamovi.pdf) sind die verscheidenen deskriptiven und inferenzstatistischen Ergebnisse in einer .pdf-Datei zusammengefasst
+
 ## Experiment
 
 -   [Webmail Uni Würzburg](https://webmail.uni-wuerzburg.de/login.php)
@@ -55,7 +73,7 @@ Bilder vom Experiment könnt ihr [hier](/material/methoden-pics.zip) runterladen
 -   [Studie auf Sona](https://psywue.sona-systems.com/exp_info.aspx?experiment_id=1067)
     -   Passwort und Login sind bekannt
 
--   Laborschlüssel-Rückgabe bis zum 19.06.2018 bei [Fr. Hörning, R. 108](http://www.i1.psychologie.uni-wuerzburg.de/klin/personen/hoerning-barbara/)
+-   ~~Laborschlüssel-Rückgabe bis zum 19.06.2018 bei [Fr. Hörning, R. 108](http://www.i1.psychologie.uni-wuerzburg.de/klin/personen/hoerning-barbara/)~~
 
 -   ~~Bei VP32 Tastenbelegung umdrehen. **Bitte Bescheid geben!**~~
 
@@ -107,3 +125,5 @@ Das Programm kann direkt oder am Anfang der Sitzung installiert werden.
     -   Der Direktlink für MacOS ist [hier](https://github.com/psychopy/psychopy/releases/download/1.90.2/StandalonePsychoPy2-1.90.2-MacOS.dmg)
     -   Der Direktlink für Windows ist [hier](https://github.com/psychopy/psychopy/releases/download/1.90.2/StandalonePsychoPy2-1.90.2-win32.exe)
         -   Achtung: Downloads dauern extrem lange, daher Datei vor der Sitzung herunterladen!
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
