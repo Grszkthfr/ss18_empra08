@@ -26,8 +26,8 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | [**8.**](#session08) 04.06.18       |Erhebungsende?, Auswertung (verschoben), wissenschaftliches Poster, [Folien](/ss18_empra08/slides/sitzung08_poster.html), Fragebogen-Daten Anleitung [hier](#fb-ratings)|
 | **9.** 11.06.18       |Auswertung|
 |[**10.**](#session10) 18.06.18       |Auswertung/Poster (Texte), [Folien](/ss18_empra08/slides/sitzung10_auswertung.html)|
-|**11.** 02.07.18       |*Poster (Texte/Design)*|
-|**12.** 25.07.18       |*Poster (Design)*|
+|**11.** 25.06.18       |*Poster (Texte/Design)*|
+|**12.** 02.07.18       |*Poster (Design)*|
 |**13.** 09.07.18       |Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
 
 ---
