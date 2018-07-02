@@ -1,6 +1,6 @@
 ## Allgemeines
 
-Hier solltzet ihr alle Informationen finden, die wir im Laufe des Semesters benötigen.
+Hier solltet ihr alle Informationen finden, die wir im Laufe des Semesters benötigen.
 
 Erreichen könnt ihr [mich](http://www.i1.psychologie.uni-wuerzburg.de/ekp/personen/jonas-grossekathoefer/msc-jonas-grossekathoefer/) am besten per Mail: [jonas.grossekathoefer@uni-wuerzburg.de](mailto:jonas.grossekathoefer@uni-wuerzburg.de).  
 Aus dem Labor erreicht ihr mich unter der Durchwahl 84504.
@@ -26,7 +26,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | [**8.**](#session08) 04.06.18 |Erhebungsende?, Auswertung (verschoben), wissenschaftliches Poster, [Folien](/ss18_empra08/slides/sitzung08_poster.html), Fragebogen-Daten Anleitung [hier](#fb-ratings)|
 | **9.** 11.06.18          |Auswertung|
 |[**10.**](#session10) 18.06.18 |Auswertung/Poster (Texte), [Folien](/ss18_empra08/slides/sitzung10_auswertung.html)|
-|**11.** 25.06.18          |Poster (Texte/Design), [Folien](ss18_empra08/slides/sitzung11_diskussion.html#1)|
+|**11.** 25.06.18          |Poster (Texte/Design), [Folien](ss18_empra08/slides/sitzung11_diskussion.html)|
 |**12.** 02.07.18          |*Poster (Design)*|
 |**13.** 09.07.18          |Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
 
@@ -34,33 +34,42 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 
 ## Prüfung
 
+Details zur Prüfung findet ihr [hier](ss18_empra08/slides/sitzung12_abschluss.html#16)
+
 Montag, den 09.07.2018, Raum: R. 213
 
-|Slot|Uhrzeit    | Student |
-|--|-------------|---------|
-|1 | 14:15h - 14:30h | ??? |
-|2 | 14:35h - 14:50h | ??? |
-|3 | 14:55h - 15:10h | ??? |
-|4 | 15:10h - 15:25h | ??? |
-|5 | 15:30h - 15:45h | ??? |
+|Slot|Uhrzeit          | Student |
+|----|-----------------|---------|
+|1   | 14:15h - 14:30h | ???     |
+|2   | 14:35h - 14:50h | ???     |
+|3   | 14:55h - 15:10h | ???     |
+|4   | 15:10h - 15:25h | ???     |
+|5   | 15:30h - 15:45h | ???     |
 
-Bitte drei zusammenhängede Termine auswählen bis zum nächsten Treffen, Mo., 02.07.18, mitteilen
+Bitte drei zusammenhängende Termine auswählen und am nächsten Treffen, Mo., 02.07.18, mitteilen
 
-## Material für's Poster {#poster}
+## Poster {#poster}
+
+### Druck
+
+-   Beim [IT-Support](https://www.rz.uni-wuerzburg.de/it-support/) abholen
+    -   Öffnungszeiten beachten
+-   Poster ist auf *Großekathöfer* hinterlegt und bereits bezahlt
+-   Poster vor Ort zuschneiden
 
 ### Bilder für den Methodenteil
 
-Bilder vom Experiment könnt ihr [hier](/material/methoden-pics.zip) runterladen.
+Bilder vom Experiment könnt ihr [hier](/material/methoden-pics.zip) herunterladen
 
 ### Daten für die Ergebnisse
 
--   [Hier](material/results/df_jamovi.csv) können die Daten heruntergeladen werden um sie mit [Jamovi](#jamovi) auszuwerten.
+-   [Hier](material/results/df_jamovi.csv) können die Daten heruntergeladen werden um sie mit [Jamovi](#jamovi) auszuwerten
     -   Denkt daran, in Jamovi den Variablen die richtigen Skalenniveaus zuzuordnen.
 -   [Hier](https://grszkthfr.github.io/ss18_empra08/slides/sitzung10_auswertung.html#12) ist aufgelistet, wie sich die Variablennamen zusammensetzen
 
 ### Ergebnisse
 
--   [Hier](material/results/results_jamovi.pdf) sind die verscheidenen deskriptiven und inferenzstatistischen Ergebnisse in einer .pdf-Datei zusammengefasst
+-   [Hier](material/results/results_jamovi.pdf) sind die verschiedenen deskriptiven und inferenzstatistischen Ergebnisse in einer .pdf-Datei zusammengefasst
 
 ## Experiment
 
