@@ -62,7 +62,7 @@ Thema <- c(
   "Auswertung/Poster (Texte)",                                                             # Sitzung 10
   "Poster (Texte/Design)",                                                                 # Sitzung 11
   "Poster (Design)",                                                                       # Sitzung 12
-  "Prüfung und Posterkongress vsl. am Mittwoch, den 11. Juli 2018 "                        # Sitzung 13
+  "Prüfung und Posterkongress, Mittwoch, den 11. Juli 2018, 18.00h"                        # Sitzung 13
   )
 
 Termine <- data.frame(Nr., Termine, Thema)
@@ -157,6 +157,9 @@ class: center, middle, inverse
 
 -   Gesamtdauer: < 15 Minuten
 
+--
+
+#### Nach den Prüfungen kurze Feedbackrunde?
 
 ---
 class: inverse, center, middle

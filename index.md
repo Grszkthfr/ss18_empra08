@@ -27,7 +27,7 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 | **9.** 11.06.18          |Auswertung|
 |[**10.**](#session10) 18.06.18 |Auswertung/Poster (Texte), [Folien](/ss18_empra08/slides/sitzung10_auswertung.html)|
 |**11.** 25.06.18          |Poster (Texte/Design), [Folien](/ss18_empra08/slides/sitzung11_diskussion.html)|
-|**12.** 02.07.18          |*Poster (Design)*|
+|**12.** 02.07.18          |Poster (Design), [Folien](/ss18_empra08/slides/sitzung12_abschluss.html)|
 |**13.** 09.07.18          |Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
 
 ---
@@ -39,12 +39,12 @@ Details zur Prüfung findet ihr [hier](/ss18_empra08/slides/sitzung12_abschluss.
 Montag, den 09.07.2018, Raum: R. 213
 
 |Slot|Uhrzeit          | Student |
-|----|-----------------|---------|
-|1   | 14:15h - 14:30h | ???     |
-|2   | 14:35h - 14:50h | ???     |
-|3   | 14:55h - 15:10h | ???     |
-|4   | 15:10h - 15:25h | ???     |
-|5   | 15:30h - 15:45h | ???     |
+|:--:|-----------------|:-------:|
+|1   | 14:15h - 14:30h |   1     |
+|2   | 14:35h - 14:50h |   2     |
+|3   | 14:55h - 15:10h |   3     |
+|4   | 15:10h - 15:25h | Feedback|
+|5   | 15:30h - 15:45h |   -     |
 
 Bitte drei zusammenhängende Termine auswählen und am nächsten Treffen, Mo., 02.07.18, mitteilen
 
