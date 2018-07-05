@@ -5,6 +5,7 @@ author: "Jonas Großekathöfer"
 date: "18.06.18"
 output:
   xaringan::moon_reader:
+    css: ["default", "default-fonts", "my-theme.css"]
     lib_dir: libs
     nature:
       highlightStyle: github
@@ -80,12 +81,16 @@ rm(day, i, Nr., Thema)
 ]
 ---
 
-class: inverse, center, bottom
+class: inverse, center
 background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/68/Gipfel_Piz_mitgel.jpg)
 background-position: 50% 50%
 background-size: 100%
 
 ## Erhebungsende
+
+.copyright[
+Bild: Stefanski von https://commons.wikimedia.org/wiki/File:Gipfel_Piz_mitgel.jpg
+]
 
 ???
 
@@ -214,6 +219,8 @@ class: inverse, center, middle
 
 .footnote[
 
-<font size="-2">Slides created via the R packages [**xaringan**](https://github.com/yihui/xaringan) and [knitr](http://yihui.name/knitr), and [R Markdown](https://rmarkdown.rstudio.com)</font size>
+<font size="-2">Slides created via the R packages [**xaringan**](https://github.com/yihui/xaringan) and [knitr](http://yihui.name/knitr), and [R Markdown](https://rmarkdown.rstudio.com)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.</font size>
 
 ]

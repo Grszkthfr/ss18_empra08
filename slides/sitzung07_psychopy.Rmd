@@ -5,6 +5,7 @@ author: "Jonas Großekathöfer"
 date: "28.05.18"
 output:
   xaringan::moon_reader:
+    css: ["default", "default-fonts", "my-theme.css"]
     lib_dir: libs
     nature:
       highlightStyle: github
