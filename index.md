@@ -15,26 +15,26 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum 213** der
 
 |Termine                   |Thema                                                        |
 |--------------------------|-------------------------------------------------------------|
-| **1.** 09.04.18          |Kennenlernen, [Folien](/ss18_empra08/slides/sitzung01.html)|
-| **2.** 16.04.18          |7 Todsünden psychologischer Forschung, [Folien](/ss18_empra08/slides/sitzung02.html)|
+| **1.** 09.04.18          |Kennenlernen, [Folien](slides/sitzung01.html)|
+| **2.** 16.04.18          |7 Todsünden psychologischer Forschung, [Folien](slides/sitzung02.html)|
 | **3.** 23.04.18          ||
-| **4.** 30.04.18          |Entscheidung, [Folien](/ss18_empra08/slides/sitzung04.html)|
-| **5.** 07.05.18          |Hypothesen, [Folien](/ss18_empra08/slides/sitzung05.html)|
+| **4.** 30.04.18          |Entscheidung, [Folien](slides/sitzung04.html)|
+| **5.** 07.05.18          |Hypothesen, [Folien](slides/sitzung05.html)|
 | **6.** 14.05.18          |*Sitzung entfällt* Pilotierung und Experimentalunterlagen|
 | ~~21.05.18~~             |*Sitzung entfällt*: Pfingsten|
-| [**7.**](#session07) 28.05.18 |Erhebungsstatus, Programmieren (zur Vorbereitung siehe [hier](#psychopy)) und Co., [Folien](/ss18_empra08/slides/sitzung07_psychopy.html)|
-| [**8.**](#session08) 04.06.18 |Erhebungsende?, Auswertung (verschoben), wissenschaftliches Poster, [Folien](/ss18_empra08/slides/sitzung08_poster.html), Fragebogen-Daten Anleitung [hier](#fb-ratings)|
+| [**7.**](#session07) 28.05.18 |Erhebungsstatus, Programmieren (zur Vorbereitung siehe [hier](#psychopy)) und Co., [Folien](slides/sitzung07_psychopy.html)|
+| [**8.**](#session08) 04.06.18 |Erhebungsende?, Auswertung (verschoben), wissenschaftliches Poster, [Folien](slides/sitzung08_poster.html), Fragebogen-Daten Anleitung [hier](#fb-ratings)|
 | **9.** 11.06.18          |Auswertung|
-|[**10.**](#session10) 18.06.18 |Auswertung/Poster (Texte), [Folien](/ss18_empra08/slides/sitzung10_auswertung.html)|
-|**11.** 25.06.18          |Poster (Texte/Design), [Folien](/ss18_empra08/slides/sitzung11_diskussion.html)|
-|**12.** 02.07.18          |Poster (Design), [Folien](/ss18_empra08/slides/sitzung12_abschluss.html)|
+|[**10.**](#session10) 18.06.18 |Auswertung/Poster (Texte), [Folien](slides/sitzung10_auswertung.html)|
+|**11.** 25.06.18          |Poster (Texte/Design), [Folien](slides/sitzung11_diskussion.html)|
+|**12.** 02.07.18          |Poster (Design), [Folien](slides/sitzung12_abschluss.html)|
 |**13.** 09.07.18          |Prüfung und Posterkongress voraussichtlich am Mittwoch, den 11. Juli 2018|
 
 ---
 
 ## Prüfung
 
-Details zur Prüfung findet ihr [hier](/ss18_empra08/slides/sitzung12_abschluss.html#16)
+Details zur Prüfung findet ihr [hier](slides/sitzung12_abschluss.html#16)
 
 Montag, den 09.07.2018, Raum: R. 213
 
@@ -50,6 +50,8 @@ Bitte drei zusammenhängende Termine auswählen und am nächsten Treffen, Mo., 0
 
 ## Poster {#poster}
 
+Das finale Poster findet ihr [hier](material/poster)
+
 ### Druck
 
 -   Beim [IT-Support](https://www.rz.uni-wuerzburg.de/it-support/) abholen
@@ -59,13 +61,13 @@ Bitte drei zusammenhängende Termine auswählen und am nächsten Treffen, Mo., 0
 
 ### Bilder für den Methodenteil
 
-Bilder vom Experiment könnt ihr [hier](/material/methoden-pics.zip) herunterladen
+Bilder vom Experiment könnt ihr [hier](material/methoden-pics.zip) herunterladen
 
 ### Daten für die Ergebnisse
 
 -   [Hier](material/results/df_jamovi.csv) können die Daten heruntergeladen werden um sie mit [Jamovi](#jamovi) auszuwerten
     -   Denkt daran, in Jamovi den Variablen die richtigen Skalenniveaus zuzuordnen.
--   [Hier](https://grszkthfr.github.io/ss18_empra08/slides/sitzung10_auswertung.html#12) ist aufgelistet, wie sich die Variablennamen zusammensetzen
+-   [Hier](slides/sitzung10_auswertung.html#12) ist aufgelistet, wie sich die Variablennamen zusammensetzen
 
 ### Ergebnisse
 
@@ -88,7 +90,7 @@ Bilder vom Experiment könnt ihr [hier](/material/methoden-pics.zip) herunterlad
 
 ### Eyetracking Anleitung
 
-[Hier](/material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung.
+[Hier](material/instruction/anleitung_et.html) findet ihr die Eyetracking Anleitung.
 
 ---
 
@@ -104,7 +106,7 @@ Eine (kurze) Anleitung zum Programm findet ihr [hier](https://www.jamovi.org/use
 
 ### Fragebogendaten übertragen {#fb-ratings}
 
--   Die ausgefüllten Fragebögen [hier](/material/fb-ratings.csv) eintragen
+-   Die ausgefüllten Fragebögen [hier](material/fb-ratings.csv) eintragen
     -   *aqk1* - *aqk33*: [AQ-K](https://econtent.hogrefe.com/doi/full/10.1026/1616-3443.36.4.280), **1** - "Ich stimme eindeutig zu" bis **4** - "Ich stimme überhaupt nicht zu" kodieren
     -   *fze1* & *fze2*: Fragen zum Experiment, "Was schätzen Sie, wie gut war...": **1** - "sehr schlecht" bis **5** - "sehr gut"
     -   *pic1a* - *pic3v*: Fragen zur Attraktivität und Vertrautheit der Bilder, **1** - "wenig attraktiv/ vertraut" bis **5** "sehr attraktiv/ vertraut"
