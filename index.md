@@ -50,7 +50,7 @@ Bitte drei zusammenhängende Termine auswählen und am nächsten Treffen, Mo., 0
 
 ## Poster {#poster}
 
-Das finale Poster findet ihr [hier](material/poster)
+*The Great Gaze-Cue*: Das finale Poster findet ihr [hier](material/poster.pdf)
 
 ### Druck
 
